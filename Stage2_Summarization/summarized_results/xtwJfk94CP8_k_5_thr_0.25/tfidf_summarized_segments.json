@@ -1,0 +1,36 @@
+{
+  "k": 5,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Tribal · Government · Native"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 93.439,
+      "title": "Around · Build · Come"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 130.479,
+      "title": "Native · Government · Year"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 170.16,
+      "title": "Tribal · Government · But"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 420.96,
+      "title": "Government · Federal · Tribe"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 604.8,
+      "title": "Course · Crash · Episode"
+    }
+  ]
+}

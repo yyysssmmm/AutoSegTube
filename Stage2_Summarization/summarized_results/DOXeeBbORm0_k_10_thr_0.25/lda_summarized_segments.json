@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.08,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 196.4,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 2443.599,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 4053.52,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 4477.52,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 5779.679,
+      "title": "Think · Like · Know"
+    }
+  ]
+}

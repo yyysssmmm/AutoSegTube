@@ -1,0 +1,36 @@
+{
+  "k": 5,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.16,
+      "title": "The Future of AI: Insights from Sam Altman"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 1001.2,
+      "title": "The Evolution of AI: Adapting to Culture"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 1121.44,
+      "title": "Bunny on a Trampoline: AI and Reality"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 1276.72,
+      "title": "Future of Work in 2035"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 1407.68,
+      "title": "The Future of AI: Opportunities and Challenges"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 3403.44,
+      "title": "The Future of AI and Human Interaction"
+    }
+  ]
+}

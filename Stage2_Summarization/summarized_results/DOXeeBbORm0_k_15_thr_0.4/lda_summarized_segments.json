@@ -1,0 +1,31 @@
+{
+  "k": 15,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.08,
+      "title": "Professor · Texas · Caput"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 33.04,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 196.4,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 5934.8,
+      "title": "Enjoy · Com · Substack"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 5994.48,
+      "title": "Enjoy · Com · Substack"
+    }
+  ]
+}

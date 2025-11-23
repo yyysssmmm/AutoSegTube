@@ -1,0 +1,36 @@
+{
+  "k": 5,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 1.199,
+      "title": "Not · If · Passport"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 42.879,
+      "title": "Not · Federal · Indian"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 181.44,
+      "title": "Indian · Law · Not"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 361.759,
+      "title": "Tribe · Obligation · See"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 386.0,
+      "title": "Land · Indian · Federal"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 615.04,
+      "title": "Will · Help · Next"
+    }
+  ]
+}

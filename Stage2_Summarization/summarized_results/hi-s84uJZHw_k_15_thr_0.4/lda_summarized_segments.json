@@ -1,0 +1,26 @@
+{
+  "k": 15,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Ufo · Know · Uap"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 649.2,
+      "title": "Ufo · Know · Uap"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 843.44,
+      "title": "Like · Know · Say"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 5014.8,
+      "title": "Like · Know · Say"
+    }
+  ]
+}

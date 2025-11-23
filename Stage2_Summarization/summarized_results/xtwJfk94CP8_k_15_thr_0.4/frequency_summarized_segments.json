@@ -1,0 +1,26 @@
+{
+  "k": 15,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Government · Tribal · Native"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 170.16,
+      "title": "Government · Tribal · Do"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 420.96,
+      "title": "Tribal · Government · Suppose"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 452.4,
+      "title": "Tribe · Federal · Government"
+    }
+  ]
+}

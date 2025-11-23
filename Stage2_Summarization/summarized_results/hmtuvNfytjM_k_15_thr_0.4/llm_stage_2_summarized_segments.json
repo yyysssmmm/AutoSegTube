@@ -1,0 +1,31 @@
+{
+  "k": 15,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.16,
+      "title": "The Future of AI: Insights from Sam Altman"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 982.4,
+      "title": "The Nature of Truth and AI"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 1121.44,
+      "title": "The Future of AI and Job Displacement"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 1407.68,
+      "title": "Building the Future of AI"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 3851.68,
+      "title": "The Birth of a Game-Changing Idea"
+    }
+  ]
+}

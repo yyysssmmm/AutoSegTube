@@ -1,0 +1,31 @@
+{
+  "k": 15,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 1.199,
+      "title": "Indian · Law · Federal"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 181.44,
+      "title": "Indian · Law · Federal"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 319.52,
+      "title": "Tribe · Indian · Government"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 501.599,
+      "title": "Land · Indian · Federal"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 615.04,
+      "title": "Land · Indian · Federal"
+    }
+  ]
+}

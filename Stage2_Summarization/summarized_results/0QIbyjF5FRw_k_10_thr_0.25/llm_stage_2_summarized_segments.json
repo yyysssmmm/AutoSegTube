@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 1.199,
+      "title": "Understanding Federal Indian Law"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 130.56,
+      "title": "Struggles for Tribal Sovereignty in Sports"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 181.44,
+      "title": "The Crisis of Missing Indigenous Women"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 319.52,
+      "title": "Understanding Tribal Recognition and Federal Law"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 501.599,
+      "title": "Understanding Indian Country and Tribal Rights"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 615.04,
+      "title": "Exploring Native American History in Indianapolis"
+    }
+  ]
+}

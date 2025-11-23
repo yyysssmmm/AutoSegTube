@@ -1,0 +1,26 @@
+{
+  "k": 15,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "UAP vs UFO: Understanding the Terminology"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 649.2,
+      "title": "UAP Footage and Government Narratives"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 843.44,
+      "title": "UFO Sightings and Military Encounters"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 5014.8,
+      "title": "Crowdsourcing UAP Solutions"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "k": 5,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "UAPs: Unveiling the Truth Behind Military Footage"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 539.6,
+      "title": "Football Season Betting Tips and UAP Insights"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 668.399,
+      "title": "Deep Conversations in Mosul"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 694.399,
+      "title": "Navy UFO Sightings Explained"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 1388.88,
+      "title": "UFOs, Government Secrets, and Bob Lazar's Claims"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 2485.119,
+      "title": "Exploring Big Stories and Humanity's Questions"
+    },
+    {
+      "seg_num": 7,
+      "start_timestamp": 2587.68,
+      "title": "UFO Cover-Up and George Knap's Journey"
+    },
+    {
+      "seg_num": 8,
+      "start_timestamp": 3002.72,
+      "title": "Commander Fravor's UFO Encounter"
+    },
+    {
+      "seg_num": 9,
+      "start_timestamp": 3314.48,
+      "title": "Whistleblower Insights on UAPs"
+    },
+    {
+      "seg_num": 10,
+      "start_timestamp": 3784.319,
+      "title": "UFO Disclosure and Whistleblower Challenges"
+    },
+    {
+      "seg_num": 11,
+      "start_timestamp": 4592.64,
+      "title": "Whistleblowers and UFOs: A New Era of Disclosure"
+    },
+    {
+      "seg_num": 12,
+      "start_timestamp": 4856.159,
+      "title": "UFO Sightings and Public Perception"
+    }
+  ]
+}

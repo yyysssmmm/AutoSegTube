@@ -1,0 +1,36 @@
+{
+  "k": 15,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.08,
+      "title": "Like · Do · Get"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 33.04,
+      "title": "Like · Do · Get"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 196.4,
+      "title": "Like · Do · Get"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 270.72,
+      "title": "Like · Do · Get"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 5934.8,
+      "title": "Like · Do · Get"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 5994.48,
+      "title": "Substack · Com · Like"
+    }
+  ]
+}

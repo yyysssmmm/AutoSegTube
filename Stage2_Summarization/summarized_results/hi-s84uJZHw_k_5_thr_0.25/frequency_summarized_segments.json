@@ -1,0 +1,66 @@
+{
+  "k": 5,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Not · So · Ufo"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 539.6,
+      "title": "Not · Like · Bet"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 668.399,
+      "title": "Go · Get · Want"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 694.399,
+      "title": "Not · So · Go"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 1388.88,
+      "title": "Not · Know · So"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 2485.119,
+      "title": "Story · Now · If"
+    },
+    {
+      "seg_num": 7,
+      "start_timestamp": 2587.68,
+      "title": "Like · Not · Get"
+    },
+    {
+      "seg_num": 8,
+      "start_timestamp": 3002.72,
+      "title": "Not · Go · Know"
+    },
+    {
+      "seg_num": 9,
+      "start_timestamp": 3314.48,
+      "title": "Do · So · Know"
+    },
+    {
+      "seg_num": 10,
+      "start_timestamp": 3784.319,
+      "title": "Do · Not · So"
+    },
+    {
+      "seg_num": 11,
+      "start_timestamp": 4592.64,
+      "title": "Not · Do · So"
+    },
+    {
+      "seg_num": 12,
+      "start_timestamp": 4856.159,
+      "title": "Like · Not · Go"
+    }
+  ]
+}

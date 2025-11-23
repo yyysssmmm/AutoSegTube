@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.16,
+      "title": "The Future of AI: Insights from Sam Altman"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 1222.24,
+      "title": "The Future of AI and Job Displacement"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 2439.28,
+      "title": "The Future of AI and Society"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 3375.44,
+      "title": "The Importance of Encouragement in Mental Health"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 3532.32,
+      "title": "Tactical Advice for Kids in an AI World"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 3648.56,
+      "title": "Exploring AI's Future Potential"
+    }
+  ]
+}

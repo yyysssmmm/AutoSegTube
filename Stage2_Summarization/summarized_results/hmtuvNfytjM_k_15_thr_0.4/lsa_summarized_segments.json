@@ -1,0 +1,31 @@
+{
+  "k": 15,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.16,
+      "title": "Like · Do · Think"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 982.4,
+      "title": "Like · Do · Think"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 1121.44,
+      "title": "Like · Do · Think"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 1407.68,
+      "title": "Like · Do · Think"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 3851.68,
+      "title": "Work · Thank · Might"
+    }
+  ]
+}

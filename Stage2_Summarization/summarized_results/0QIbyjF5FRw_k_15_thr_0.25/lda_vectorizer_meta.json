@@ -1,0 +1,5 @@
+{
+  "max_features": 3000,
+  "stop_words": "english",
+  "token_pattern": "(?u)\\b\\w\\w+\\b"
+}

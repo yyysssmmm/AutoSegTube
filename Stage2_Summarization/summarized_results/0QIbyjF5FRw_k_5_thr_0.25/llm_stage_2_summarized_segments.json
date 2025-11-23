@@ -1,0 +1,36 @@
+{
+  "k": 5,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 1.199,
+      "title": "Challenges of Competing Abroad in Lacrosse"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 42.879,
+      "title": "Navigating Federal Indian Law"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 181.44,
+      "title": "The Impact of Federal Indian Law on Indigenous Women"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 361.759,
+      "title": "Tribal Recognition and Trust Responsibilities"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 386.0,
+      "title": "Federal Indian Law and Tribal Sovereignty"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 615.04,
+      "title": "Support Crash Course on Patreon"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "k": 15,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Not · Do · So"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 649.2,
+      "title": "Not · Do · So"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 843.44,
+      "title": "Not · Do · So"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 4775.6,
+      "title": "Not · Do · So"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 5014.8,
+      "title": "Not · Do · So"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 5374.48,
+      "title": "Thank · Decision · Awesome"
+    }
+  ]
+}

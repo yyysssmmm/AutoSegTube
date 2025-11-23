@@ -1,0 +1,56 @@
+{
+  "k": 5,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.08,
+      "title": "Go · Yeah · Professor"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 125.04,
+      "title": "Algebra · Man · Good"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 166.4,
+      "title": "Yeah · Do · Write"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 196.4,
+      "title": "Not · Do · Think"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 2412.0,
+      "title": "Not · Do · Get"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 2686.4,
+      "title": "Not · Get · Think"
+    },
+    {
+      "seg_num": 7,
+      "start_timestamp": 3467.599,
+      "title": "Not · Do · Woman"
+    },
+    {
+      "seg_num": 8,
+      "start_timestamp": 4460.96,
+      "title": "Not · Do · Go"
+    },
+    {
+      "seg_num": 9,
+      "start_timestamp": 5779.679,
+      "title": "Like · Do · Go"
+    },
+    {
+      "seg_num": 10,
+      "start_timestamp": 6021.679,
+      "title": "Com · Shanemith · Substack"
+    }
+  ]
+}

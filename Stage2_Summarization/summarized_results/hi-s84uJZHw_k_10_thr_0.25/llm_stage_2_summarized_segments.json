@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Unveiling UAP: Government Secrets and UFO Footage"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 507.759,
+      "title": "UAP Footage Analysis and Insights"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 649.2,
+      "title": "UAP Insights and Government Labels"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 843.44,
+      "title": "UFOs and Non-Human Intelligence: A Deep Dive"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 3867.359,
+      "title": "UAP Disclosure and Whistleblower Insights"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 4971.84,
+      "title": "Crowdsourcing UAP Solutions"
+    }
+  ]
+}

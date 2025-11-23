@@ -1,0 +1,36 @@
+{
+  "k": 5,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Tribal Sovereignty and Governance"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 93.439,
+      "title": "Negotiating Tribal Sovereignty"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 130.479,
+      "title": "Restoring Native Sovereignty: The Indian Reorganization Act"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 170.16,
+      "title": "Modernizing Tribal Governments"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 420.96,
+      "title": "Tribal Sovereignty and the Dakota Access Pipeline"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 604.8,
+      "title": "Preserving Native Languages"
+    }
+  ]
+}

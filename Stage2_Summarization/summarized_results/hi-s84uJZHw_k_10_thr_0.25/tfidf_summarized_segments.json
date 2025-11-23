@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Not · So · Ufo"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 507.759,
+      "title": "Not · Bet · Like"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 649.2,
+      "title": "Do · So · Not"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 843.44,
+      "title": "Not · So · Do"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 3867.359,
+      "title": "Do · Not · So"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 4971.84,
+      "title": "Go · Not · Like"
+    }
+  ]
+}

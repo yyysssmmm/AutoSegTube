@@ -1,0 +1,101 @@
+1. video_id.txt 파일 작성
+
+2. fetch_transcript.py 실행 -> transcript 폴더 생성됨 
+폴더 안 각 파일에는 all_text, sentences, gt 키 구성,
+sentences는 start_timestamp, text를 키로 가지는 딕셔너리들을 원소로 가지는 리스트를 value로 가짐
+gt는 start_timestamp, text를 키로 가지는 딕셔너리들을 원소로 가지는 리스트를 value로 가짐
+
+
+3. preprocess_transcript.py 실행 -> preprocessed_transcripts 폴더 생성됨 
+
+코드 실행 전 python -m spacy download en_core_web_sm 명령어 입력 필수 
+
+주의) 기존 preprocess 함수는 
+비언어 표현 및 구두점 제거 -> 스펠링 교정 -> 불용어 제거 및 lemmatization 순서였으나, 이대로 할 경우 
+Altman 같은 고유명사가 Alter와 같이 이상하게 처리되어 추후 frequency나 tfidf 등 기반으로 챕터링할 때 정확도를 저해하는 원인이 됨 & stopwords에 not 같은 표현들이 포함되어있어 불용어 제거 결과 의미 왜곡되는 경우 발생 & 스펠링교정할때 Look을 took으로 바꾸는 등 오류 발생 => NER 적용 및 불용어 중 not과 같이 논리적 의미 뒤집는 표현 미포함 & 스펠링 교정 제거 & 순서 변경하여 보완:
+contract expansion (wouldn't와 같은 축약표현 축약해제) -> 비언어 표현 및 구두점 제거 -> NER 기반 고유명사 보호 -> 불용어 제거 (stopword_whitelist에 있는 단어 제외) -> lemmatization (고유명사 제외) 순으로 최종 전처리 수행
+
+
+4. generate_embeddings.py 실행 -> embedded_transcripts 폴더 생성됨
+
+text-embedding-3-small 모델 사용
+
+폴더 안 각 파일은 tanscript 폴더에 생성된 파일과 형식 동일하지만 sentences, gt 각 키의 value인 리스트의
+딕셔너리들은 embedding 키를 추가로 가지게 됨
+=> 이때 고민해볼 거리: embedding을 이렇게 저장하면 비효율적이니까 pinecone 같은 벡터db를 써보면 어떨까?
+
+5. Stage1_Segmentation 폴더에 있는 find_segment.py 파일 실행 (preprocessed_transcripts 폴더 내 파일들로 부터 생성)
+
+text-embedding-3-small 모델 사용 
+
+python Stage1_Segmentation/find_segment.py
+-> Stage1_Segmentation/segment_result 폴더 생성됨 
+
+폴더 안 각 파일은 k, threshold, segments를 키 값으로 가짐
+segment는 seg_num, start_timestamp, text를 키로 가지는 딕셔너리를 원소로 가지는 리스트를 value로 가짐
+=> 이때 고민해볼 거리: 현재 승민이가 만든 find_segment.py는 embedding을 api로 구해놓고 아깝게 저장하지 않아서 이후에 t-sne 위해서는 임베딩 모델 한번더 돌려야 함...
+-> find_segment.py에서 구한 embedding도 save할 때 segment키의 밸류로 가지는 리스트 원소 딕셔너리의 키 값으로 추가해서 같이 저장하면 좋지 않을까...
+=> 해당 내용 반영해서 수정 완료
+=> 근데, 그럼에도 불구하고 fine_grained_refinement 함수는 불완전함. 현재 가정대로라면 coarse하게 나눈 구간 내에서는 문장 단위로 유사한 말을 이어간다는 가정 하에 유사도가 최저가 되는 부분에서 끊어내는건데, 이렇게 fine하게 끊어내는 부분 만드는 rule-based 로직 자체가 매번 들어맞는다고 보장 불가능하기 때문 
+
+6. Stage2_Summarization 폴더에 있는 ours_summarize_segment.py 실행
+-> Stage2_Summarization/summarized_results 폴더 생성됨
+
+폴더 안 각 파일은 각 video_id의 하위폴더들로 구성, 각 하위폴더는 frequency, tfidf, lsa기반 방법으로 title 형성한 결과로 구성됨
+해당 파일들은 segment_result 폴더 내 파일들과 같은 형식에서, segment키 값에 대응되는 리스트의 딕셔너리 원소들에 
+title만 추가된 형식 갖추고 있음. 이때, 이 파일들은 같은 segmentation 기반에서 title 뽑는 방법만 다르므로 모두 seg_num과 startTime은 동일
+
+k, threshold, segments가 기본 키,
+segments의 밸류인 리스트의 각 딕셔너리 원소는 seg_num, startTime, title을 키로 가짐
+
+
+7. Stage2_Summarization 폴더에 있는 llm_summarize_segment.py 실행
+=> Stage2_Summarization/llm_all_summarized_results 폴더 생성됨
+
+gpt-4o-mini 모델 사용 
+
+-> Stage2_Summarization/summarized_results 폴더 내 video_id 하위폴더들에 llm_stage_2, llm_stage_all 결과 json 파일들이 추가됨
+
+llm_stage_2결과는 6에서 실행한 ours 결과와 기본 틀 모두 동일 (동일한 segmentation 결과에 대해 챕터제목 구하는 방법만 다르게 한 것이기 때문)
+
+llm_stage_all 결과는 
+k, threshold, segments가 기본 키,
+segments의 밸류인 리스트의 각 딕셔너리 원소는 startTimeStamp, subtitle을 키로 가짐 
+
+
+8. python Stage2_Summarization/get_summarized_embeddings.py 실행
+=> Stage2_Summarization/embeddings 폴더 생성됨 (폴더 안 각 파일은 video_id, method, segment 별 임베딩 값 저장되어있음)
+
+9. visualization.ipynb 파일로 결과분석
+
+1) Segmentation 정량분석
+    - 세그먼트 별 t-SNE 통해 군집이 잘 형성되는지 확인
+    - 세그먼트 별 나뉘어지는 구간 위치를 시각화하여 gt와 비교
+    => 어떤 하이퍼파라미터로 segment했을때 결과가 가장 좋은지 파악해서 해당 하이퍼파라미터의 segment기반으로 summarization 추후 진행하여 결과 분석
+
+2) Summarization 정량분석
+    - 세그먼트 별, summarization 방식 (frequency, tfidf, lsa, lda, llm)에 따른 워드클라우드 확인
+    - 각 summarization 방식과 세그먼트를 t-SNE 시각화 통해 summarization이 군집의 대표위치에 잘 형성되는지 확인 (gt, llm_all도 같은 방식으로 시각화하여 비교대상으로 삼음)
+    - LDA 토픽 시각화
+
+
+
+10. 한계점 및 개선방안 분석
+    + 스펠링 교정 x -> 오타 염두
+    1) 한계점
+        1) Segmentation
+            - 현재는 결과분석 위해 각 video_id별로 segmentation이 잘 되었다고 생각하는거를 gt와 비교해서 눈대중으로 휴리스틱하게 대략 결정했지만, 여러 데이터에 동일한 방식으로 적용할 수 있으려면 gt와 어떤식으로 비교할건지, 그리고 어떤 방법을 선택할건지 metric을 고안해두어야할 것이다
+            - 또한 현재는 하이퍼파라미터에 의존적인 구조다 -> 언제 optimal할지 알 수 없다
+             => 위에서 고안한 메트릭을 기반으로, 어떤 하이퍼파라미터 조합 (윈도우 개수, threshold 등)이 좋은지 판단 필요
+            - 또한 현재 방식은 구간이 나뉘면, 구간 내 구간의 각 문장은 유사한 문장들일거라고 가정을 하는데, 사실 문장을 기본단위로 분해해버리면 당연히 유사한 맥락에서 언급되었더라도 시맨틱이 다를 수 있다. (가령 안녕하세요 -> 발표시작하겠습니다) => 따라서 같은 챕터를 구성하는 텍스트들의 임베딩 군집화를 위해서, 문장을 최소단위로 설정하지 않고 몇 개 문장씩 묶어서 임베딩하고 그것을 t-SNE로 표현해서 군집화 잘 되는지 확인하는게 좋을 것...
+        2) Summarization
+            - frequency, tfidf, lsa, lda 기반으로 summarization하는거는 챕터링 기능이 약하다 (abstractive하지 못하고 extractive하다)
+            - 가령, 해당 챕터 동안 언급되지 않은 단어로는 소제목을 만들 수 없다 -> 비유적인 표현으로 소제목 만드는 등 유연성 적용 불가능 (+ 음악 플레이리스트 예시)
+            - 이러한 부분은 시각화 결과에서 세그먼트별 소제목 임베딩이 한곳에 뭉쳐지는 경향으로 확인 가능
+            - 다만, 그럼에도 불구하고 extractive한 상태에서 한곳에 뭉쳐지는 현상 해결 위해서는 대표 단어 뽑는 개수를 현재 3개에서 5개 이상으로 늘려보는 식으로 고민할 수 있다 + 전처리 방식 중요한거 깨달음
+            - 또한 현재는 global context를 반영해서 제목을 붙여주지 못한다 => llm_2_stage 성능이 예상보다 아쉬운것도 이러한 부분으로 설명 -> global context 잘 반영할 수 있는 방법 고안필요 
+            
+    2) 개선방안 아이디어
+        - llm에 퓨샷이용하거나 학습데이터셋 이용한 supervised finetuning으로 챕터링 기능 강화?
+            - 이때, 단순히 프롬프트 넣는것보다, 우리 분석내용일부를 프롬프트에 컨택스트로 포함해서 더 좋은 챕터링되도록 기대해볼 수 있을 것이다 
+

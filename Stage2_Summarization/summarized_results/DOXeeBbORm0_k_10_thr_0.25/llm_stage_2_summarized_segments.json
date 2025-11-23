@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.08,
+      "title": "Navigating Moral Clarity in Conflict"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 196.4,
+      "title": "Political Insights and Global Relations"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 2443.599,
+      "title": "The Importance of National Service for Young Men"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 4053.52,
+      "title": "Navigating Loneliness and Purpose in a Tech-Driven World"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 4477.52,
+      "title": "Economic Disparities and the American Dream"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 5779.679,
+      "title": "Networking for Success"
+    }
+  ]
+}

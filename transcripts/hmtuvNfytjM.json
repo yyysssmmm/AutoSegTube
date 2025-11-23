@@ -1,0 +1,2891 @@
+{
+  "all_text": "This is like a crazy amount of power for \none piece of technology and it's happened   to us so fast. You just launched GPT-5. A kid \nborn today will never be smarter than AI. How   do we figure out what's real and what's not \nreal? We haven't put a sex bot avatar in ChatGPT   yet. Super intelligence. What does that \nactually mean? This thing is remarkable. I'm about to interview Sam Alman, the CEO \nof Open AI. Open AI. Open AI. Reshaping   industries. Dude's a straightup tech lord. Let's \nbe honest. Right now, they're trying to build a   super intelligence that could far exceed humans \nin almost every field. And they just released   their most powerful model yet. Just a couple years \nago, that would have sounded like science fiction.   Not anymore. In fact, they're not alone. We are \nin the middle of the highest stakes global race   any of us have ever seen. Hundreds of billions of \ndollars and an unbelievable amount of human worth.   This is a profound moment. Most people never \nlive through a technological shift like this,   and it's happening all around you and me right \nnow. So, in this episode, I want to try to time   travel with Sam Alman into the future that \nhe's trying to build to see what it looks   like so that you and I can really understand \nwhat's coming. Welcome to Huge Conversations. How are you? Great to meet you. Thanks for \ndoing this. Absolutely. So, before we dive in,   I'd love to tell you my goal here. Okay. I'm \nnot going to ask you about valuation or AI   talent wars or fundraising or anything like that. \nI think that's all very well covered elsewhere. It   does seem like it. Our big goal on this show is to \ncover how we can use science and tech to make the   future better. And the reason that we do all of \nthat is because we really believe that if people   see those better futures, they can then help \nbuild them. So, my goal here is to try my best   to time travel with you into different moments \nin the future that you're trying to build and see   what it looks like. Fantastic. Awesome. Starting \nwith what you just announced, you recently said,   surprisingly recently, that GPT4 was the dumbest \nmodel any of us will ever have to use again.   But GPT4 can already perform better than 90% of \nhumans at the SAT and the LSAT and the GRE and it   can pass coding exams and sommelier exams and medical \nlicensing. And now you just launched GPT5. What   can GPT5 do that GPT4 can't? First of all, one \nimportant takeaway is you can have an AI system   that can do all those amazing things you just \nsaid. And it doesn't it clearly does not replicate   a lot of what humans are good at doing, which I \nthink says something about the value of SAT tests   or whatever else. But I think had you gone back \nto if we were having this conversation the day of   GPT4 launch and we told you how GPT4 did at those \nthings, you were like, \"Oh man, this is going to   have huge impacts and some negative impacts on \nwhat it means for a bunch of jobs or you know   what people are going to do.\" And you know, this \nis a bunch of positive impacts that you might have   predicted that haven't yet come true. Uh, and so \nthere there's something about the way that these   models are good that does not capture a lot of \nother things that we need people to to do or care   about people doing. And I suspect that same thing \nis going to happen again with GPT5. People are   going to be blown away by what it does. Uh, it's \nreally good at a lot of things and then they will   find that they want it to do even more. Um, people \nwill use it for all sorts of incredible things.   uh it will transform a lot of knowledge work, \na lot of the way we learn, a lot of the way we   create um but we people society will co-eolve with \nit to expect more with you know better tools. So   yeah like I think this model is quite remarkable \nin many ways quite limited in others but the fact   that for you know 3 minute 5 minute 1-hour tasks \nthat uh like an expert in a in a field could maybe   do or maybe struggle with that the fact that you \nhave in your pocket one piece of software that   can do all of these things is really amazing. \nI think this is like unprecedented at any point   in human history that I that a technology has \nimproved this much this fast and and the fact   that we have this tool now, you know, we're like \nliving through it and we're kind of adjusting step   by step. But if we could go back in time five or \n10 years and say this thing was coming, we would   be like probably not. Let's assume that people \nhaven't seen the headlines. What are the topline   specific things that you're excited about? and \nalso the things that you seem to be caveatting,   the things that maybe you won't expect it to do. \nUm, the thing that I am most excited about is this   is a model for the first time where I feel like I \ncan ask kind of any hard scientific or technical   question and get a pretty good answer. And I'll \ngive a fun example actually. Uh when I was in   junior high uh or maybe it was nth grade, \nI got a TI83, this old graphing calculator,   and I spent so long making this game called Snake. \nYeah. Uh it was very popular game with kids in my   school. And I was I was like uh I was like pro and \nit was dumb, but it was like programming on TID3   was extremely painful and took a long time and \nit was really hard to like debug and whatever.   And on a whim with an early copy of GPT5, I was \nlike, I wonder if it can make a TI83 style Game   of Snake. And of course, it did that perfectly \nin like 7 seconds. And then I was like, okay,   am I supposed to be would my like 11-year-old \nself think this was cool or like, you know,   miss something from the process? And I \nhad like 3 seconds of wondering like, oh,   is this good or bad? And then I immediately said, \nactually, now I'm missing this game. I have this   idea for a crazy new feature. Let me type it \nin. it implements it and it just the game live   updates and I'm like actually I'd like it to look \nthis way. Actually, I'd like to do this thing and   I had this like this very like kind of you have \nthis experience that reminded me of being like 11   in programming again where I was just like I now I \nwant to try this now I have this idea now I but I   could do it so fast and I could like express ideas \nand try things and play with things in such real   time. I was like, \"Oh man, you know, I was worried \nfor a second about kids like missing the struggle   of learning to program in this sort of stone age \nway.\" And now I'm just thrilled for them because   the the way that people will be able to create \nwith these new tools, the speed with which you   can sort of bring ideas to life, you know, in \nthat's that's pretty amazing. So this idea that   GPT5 can just not only like answer all these hard \nquestions for you but really create like ondemand   almost instantaneous software that's I think \nthat's going to be one of the defining elements   of the GPD5 era in a way that did not exist with \nGPD4. As you're talking about that I find myself   thinking about a concept in weightlifting of time \nunder tension. Yeah. And for those who don't know   it's you can squat 100 pounds in 3 seconds or you \ncan squat 100 pounds in 30. You gain a lot more   by squatting it in 30. And when I think about our \ncreative process and when I've felt most like I've   done my best work, it has required an enormous \namount of cognitive time under tension. And I   think that that cognitive time under tension \nis so important. And it's it's ironic almost   because these tools have taken enormous cognitive \ntime under tension to develop. But in some ways I   do think people might say they're you people are \nusing them as a escape hatch for thinking in some   ways maybe. Now you might say yeah but we did that \nwith the calculator and we just moved on to harder   math problems. Do you feel like there's something \ndifferent happening here? How do you think about   this? It's different with I mean there are some \npeople who are clearly using chachine not to   think and there are some people who are using \nit to think more than they ever have before.   I am hopeful that we will be able to build the \ntool in a way that encourages more people to   stretch their brain with it a little more and \nbe able to do more. And I think that like you   know society is a competitive place like if you \ngive people new tools uh in theory maybe people   just work less but in practice it seems like \npeople work ever harder and the expectations of   people just go up. So my my guess is that like \nother tools uh some people like other pieces   of technology some people will do more and some \npeople will do less but certainly for the people   who want to use chatbt to increase their cognitive \ntime under tension they are really able to and it   is I take a lot of inspiration from what like the \ntop 5% of most engaged users do with chacht like   it's really amazing how much people are learning \nand doing and you know outputting. So my I've   only had GPT5 for a couple hours so I've been \nplaying. What do you think so far? I'm I'm just   learning how to interact with it. I mean part of \nthe interesting thing is I feel like I just caught   up on how to use GPT4 and now I'm trying to learn \nhow to use GPD5. I'm curious what the specific   tasks that you found most interesting are because \nI imagine you've been using it for a while now.   I I have been most impressed by the coding tasks. \nI mean, there's a lot of other things it's really   good at, but this this idea of the AI can write \nsoftware for anything. And that means that you   can express ideas in new ways that the AI can \ndo very advanced things. It can do, you know,   it can like in some sense you could like ask \nGPT4 anything, but because GPT5 is so good at   programming, it feels like it can do anything. Of \ncourse, it can't do things in the physical world,   but it can get a computer to do very complex \nthings. And software is this super powerful,   you know, way to like control some stuff and \nactually do some things. So, that that for me   has been the most striking. Um, it's gotten it's \nmuch better at writing. So, this is like there's   this whole thing of AI slop like AI writes in this \nkind of like quite annoying way and M dashes. M we   still have the M dashes in GPT5. A lot of people \nlike them dashes, but the writing quality of GPT5   is gotten much better. We still have a long way \nto go. We want to improve it more, but like uh   I've a thing we've heard a lot from people inside \nof OpenAI is that man, they started using GPT5,   they knew it was better on all the metrics, but \nthere's this like nuance quality they can't quite   articulate, but then when they have to go back \nto GPT4 to test something, it feels terrible.   And I I don't know exactly what the cause \nof that is, but I suspect part of it is the   writing feels so much more natural and better. \nI in preparation for this interview reached out   to a couple other leaders in AI and technology \nand gathered a couple questions for you. Okay,   so this next question is from Stripe CEO Patrick \nCollison. This will be a good one. Read this   verbatim. It's about the next stage. What what \ncomes after GBT5? In which year do you think a   large language model will make a significant \nscientific discovery and what's missing such   that it hasn't happened yet? He caveed here that \nwe should leave math and special case models like   alpha fold aside. He's specifically asking about \nfully general purpose models like the GPT series.   I would say most people will agree that that \nhappens at some point over the next two years.   But the definition of significant matters a lot. \nAnd so some people significant might happen,   you know, in early 25. Some people might maybe \nnot until late 2026. Sorry, early 2026. Maybe some   people not until late 2027, but I would I would \nbet that by late 27, most people agree that there   has been an AIdriven significant new discovery. \nAnd the thing that I think is missing is just   the kind of cognitive power of these models. \nA framework that one of the researchers said   to me that I really liked is, you know, a year \nago we could do well on like a high school like   a basic high school math competition problems that \nmight take a professional mathematician seconds to   a few minutes. We very recently got an IMO gold \nmedal. That is a crazy difficult like could you   explain what that means? That's kind of like the \nhardest competition math test. This is something   that like the very very top slice of the world. \nmany many professional mathematicians wouldn't   solve a single problem and we scored at the top \nlevel. Now there are some humans that got an even   higher score in the gold medal range but we we \nlike this is a crazy accomplishment and these   each of these problems it's like six problems over \n9 hours so hour and a half per problem for a great   mathematician. So we've gone from a few seconds \nto a few minutes to an hour and a half maybe to   prove a significant new mathematical theorem is \nlike a thousand hours of work for a top person   in the world. So we've got to go from, you know, \nanother significant gain. But if you look at our   trajectory, you can say like, okay, we're getting \nto that. We have a path to get to that time   horizon. We just need to keep scaling the models. \nThe long-term future that you've described is   super intelligence. What does that actually mean? \nAnd how will we know when we've hit it? If we had   a system that could do better research, better AI \nresearch than uh say the whole open AI research   team, like if we were willing, if we said, \"Okay, \nthe best way we can use our GPUs is to let this AI   decide what experiments we should run smarter than \nlike the whole brain trust of Open AAI.\" Yeah. And   if that same to make a personal example, if that \nsame system could do a better job running open AI   than I could. So you have something that's like, \nyou know, better than the best researchers, better   than me at this, better than other people at their \njobs, that would feel like super intelligence to   me. That is a sentence that would have sounded \nlike science fiction just a couple years ago.   And now it kind of does, but it's you can like see \nit through the fog. Yes. And so one of the steps   it sounds like you're saying on that path is this \nmoment of scientific discovery of asking better   questions of grappling with things in a in a way \nthat expert level humans do to come up with new   discoveries. One of the things that keeps knocking \naround in my head is if we were in 1899 say and   we were able to give it all of physics up until \nthat point and play it out a little bit. Nothing   further than that. Like at what point would one \nof these systems come up with general relativity?   Interesting question is did you like if we think \nabout that forward like like if we think of where   we are now should a if if we never got another \npiece of physics data. Yeah. Do we expect that a   really good super intelligence could just think \nsuper hard about our existing data and maybe   say like solve high energy physics with no new \nparticle accelerator or does it need to build a   new one and design new experiments? Obviously \nwe don't know the answer to that. Different   people have different speculation. Uh but I \nsuspect we will find that for a lot of science,   it's not enough to just think harder about data we \nhave, but we will need to build new instruments,   conduct new experiments, and that will take some \ntime. Like that that is the real world is slow   and messy and you know whatever. So I'm sure we \ncould make some more progress just by thinking   harder about the current scientific data we \nhave in the world. But my guess is to make   the big progress we'll also need to build new \nmachines and run new experiments and there will   be some slowdown built into that. Another way of \nof thinking about this is AI systems now are just   incredibly good at answering almost any question. \nBut maybe one of the things we're saying is it's   another leap yet. And what Patrick's question \nis getting at is to ask the better questions.   Or or if we go back to this kind of timeline \nquestion, we could maybe say that AI systems   are superhuman on one minute tasks, but a long \nway to go to the thousand hour tasks. And there's   a dimension of human intelligence that seems \nvery different than AI systems when it comes   to these long horizon tasks. Now, I think we will \nfigure it out, but today it's a real weak point.   We've talked about where we are now with GBC5. \nWe talked about the end goal or future goal of   super intelligence. One of the questions that \nI have, of course, is what does it look like   to walk through the fog between the two. The next \nquestion is from Nvidia CEO Jensen Hong. I'm going   to read this verbatim. Fact is what is. Truth is \nwhat it means. So facts are objective. Truths are   personal. They depend on perspective, culture, \nvalues, beliefs, context. One AI can learn and   know the facts. But how does one AI know the \ntruth for everyone in every country and every   background? I'm going to accept as axioms those \ndefinitions. I'm not sure if I agree with them,   but in the issues of time, I will just take them. \nI will take those definitions and go with it. Um, I have been surprised, I think many other people \nhave been surprised too about how fluent AI is   at adapting to different cultural contexts and \nindividuals. One of my favorite features that we   have ever launched in chatbt is the the sort of \nenhanced memory that came out earlier this year.   like it really feels like my Chad GBT gets to \nknow me and what I care about and like my life   experiences and background and the things that \nhave led me to where they are. A friend of mine   recently who's been a huge CHBT user, so he's \ngot a lot of a a lot of he's put a lot of his   life into all these conversations. He gave his \nChad GBT a bunch of personality tests and asked   them to answer as if they were him and it got \nthe same scores he actually got, even though   he'd never really talked about his personality. \nAnd my ChachiBD has really learned over the years   of me talking to it about my culture, my \nvalues, my life. And I have used, you know,   I sometimes will use it in like uh I'll use like \na free account just to see what it's like without   any of my history and it feels really really \ndifferent. So I think we've all been surprised on   the upside of how good AI is at learning this and \nadapting. And so do you envision in many different   parts of the world people using different \nAIs with different sort of cultural norms and   contexts? Is that what we're saying? I think that \neveryone will use like the same fundamental model,   but there will be context provided to that model \nthat will make it behave in sort of personalized   way they want their community wants. Whatever. \nI think when we're getting at this idea of facts   and truth and uh it brings me to this seems like a \ngood moment for our first time travel trip. Okay,   we're going to 2030. This is a serious question, \nbut I want to ask it with a light-hearted example.   Have you seen the bunnies that are jumping on \nthe trampoline? Yes. So, for those who haven't   seen it, maybe it looks like backyard footage of \nbunnies enjoying jumping on a trampoline. And this   has gone incredibly viral recently. There's a \nhumanmade song about it. It's a whole thing.   There were a trampoline. And I think the reason \nwhy people reacted so strongly to it, it was maybe   the first time people saw a video, enjoyed it, \nand then later found out that it was completely AI   generated. In this time travel trip, if we imagine \nin 2030, we are teenagers and we're scrolling   whatever teenagers are scrolling in 2030. How do \nwe figure out what's real and what's not real?   I mean, I can give all sorts of literal answers \nto that question. We could be cryptographically   signing stuff and we could decide who we trust \ntheir signature if they actually filmed something   or not. But but my sense is what's going to \nhappen is it's just going to like gradually   converge. You know, even like a photo you take \nout of your iPhone today, it's like mostly real,   but it's a little not. There's like in some AI \nthing running there in a way you don't understand   and making it look like a little bit better and \nsometimes you see these weird things where the   moon. Yeah. Yeah. Yeah. Yeah. But there's like \na lot of processing power between the photons   captured by that camera sensor and the image \nyou eventually see. And you've decided it's real   enough or most people decided it's real enough. \nBut we've accepted some gradual move from when it   was like photons hitting the film in a camera. And \nyou know, if you go look at some video on Tik Tok,   there's probably all sorts of video editing tools \nbeing used to make it better than real look. Yeah,   exactly. Or it's just like, you know, whole \nscenes are completely generated or some of   the whole videos are generated like those bunnies \non that trampoline. And and I think that the the   sort of like the threshold for how real does it \nhave to be to consider to be real will just keep   moving. So it's sort of a education question. \nIt's a people will Yeah. I mean media is always   like a little bit real and a little bit not real. \nLike you know we watch like a sci-fi movie. We   know that didn't really happen. You watch like \nsomeone's like beautiful photo of themselves on   vacation on Instagram. like, okay, maybe that \nphoto was like literally taken, but you know,   there's like tons of tourists in line for the same \nphoto and that's like left out of it. And I think   we just accept that now. Certainly, a higher \npercentage of media both will will feel not   real. Um, but I think that's been the long-term \ntrend. Anyway, we're going to jump again. Okay,   2035, we're graduating from college, you and me. \nThere are some leaders in the AI space that have   said that in 5 years half of the entry level \nwhite collar workforce will be replaced by AI.   So we're college graduates in 5 years. What do \nyou hope the world looks like for us? I think   there's been a lot of talk about how AI might \ncause job displacement, but I'm also curious. I   have a job that nobody would have thought we \ncould have, you know, totally a decade ago.   What are the things that we could look ahead if \nwe're thinking about in 2035 that like graduating   college student, if they still go to college at \nall, could very well be like leaving on a mission   to explore the solar system on a spaceship in some \nkind of completely new exciting, super well- paid,   super interesting job and feeling so bad for you \nand I that like we had to do this kind of like   really boring old kind of work and everything \nis just better. Like I I 10 years feels very   hard to imagine at this point because it's too \nfar. It's too far. If you compound the current   rate of change for 10 more years, it's probably \nsomething we can't even time travel trips. I 10   like I mean I think now would be really hard \nto imagine 10 years ago. Yeah. Uh but I think   10 years forward will be even much harder, much \nmore different. So let's make it 5 years. We're   still going to 2030. I'm curious what you \nthink the pretty short-term impacts of this   will be for for young people. I mean, these like \nhalf of entry- level jobs replaced by AI makes   it sound like a very different world that they \nwould be entering than the one that I did. Um, I think it's totally true that some classes of \njobs will totally go away. This always happens   and young people are the best at adapting to this. \nI'm more worried about what it means, not for the   like 22-y old, but for the 62-y old that doesn't \nwant to go re retrain or reskill or whatever the   politicians call it that no one actually wants \nbut politicians and most of the time. If I were   22 right now and graduating college, I would \nfeel like the luckiest kid in all of history.   Why? Because there's never been a more amazing \ntime to go create something totally new, to go   invent something, to start a company, whatever \nit is. I think it is probably possible now to   start a company that is a oneperson company that \nwill go on to be worth like more than a billion   dollars and more importantly than that deliver an \namazing product and service to the world and that   that is like a crazy thing. You have access to \ntools that can let you do what used to take teams   of hundreds and you just have to like you know \nlearn how to use these tools and come up with a   great idea and it's it's like quite amazing. If \nwe take a step back, I think the most important   thing that this audience could hear from you \non this optimistic show is in two parts. First,   there's tactically, how are you actually trying \nto build the world's most powerful intelligence   and what are the rate limiting factors to doing \nthat? And then philosophically, how are you and   others working on building that technology in \na way that really helps and not hurts people?   So just taking the tactical part right now. \nMy understanding is that there are three big   categories that have been limiting factors for \nAI. The first is compute, the second is data and   the third is algorithmic design. How do you think \nabout each of those three categories right now?   And if you were to help someone understand \nthe next headlines that they might see,   how would you help them make sense of all this? \nI I would say there's a fourth too which is uh   figuring out the products to build like techn like \nscientific progress on its own not put into the   hands of people is of limited utility and doesn't \nsort of co-evolve with society in the same way   but if I could hit all four of those um so on \nthe compute side yeah this is like the biggest   infrastructure project certainly that I've ever \nseen possibly it will become the I think it will   maybe already is the biggest and most expensive \none in human history but the the whole supply   chain from making the chips and the memory and \nthe networking gear, racking them up in servers,   doing, you know, a giant construction project to \nbuild like a mega mega data center, putting the,   you know, finding a way to get the energy, which \nis often a limiting factor piece of this and all   the other components together. This is hugely \ncomplex and expensive. And we are we're still   doing this in like a sort of bespoke one-off way \nalthough it's getting better. Like eventually we   will just design a whole kind of like mega factory \nthat takes you know I mean spiritually it will be   melting sand on one end and putting out fully \nbuilt AI compute on the other but we are a long   way to go from that and it's a it's an enormously \ncomplex and expensive process. uh we are putting   a huge amount of work into building out as much \ncompute as we can and to do it fast and you know   it's going to be like sad because GP5 is going \nto launch and there's going to be another big   spike in demand and we're not going to be able \nto serve it and it's going to be like those early   GPD4 days and the world just wants much more AI \nthan we can currently deliver and building more   compute is an important part of doing that. \nThat's actually this is what I expect to turn   the majority of my attention to is how we build \ncompute at much greater scales. Uh so how we go   from millions to tens of millions and hundreds of \nmillions and eventually hopefully billions of GPUs   that are sort of in service of what people want \nto do with this. When you're thinking about it,   what are the big challenges here in this category \nthat you're going to be thinking about? We're   currently most limited by energy. um you know like \nif you're gonna you want to run a gigawatt scale   data center it's like a gigawatt how hard can that \nbe to find it's really hard to find a gigawatt of   power available in short term we're also very much \nlimited by the processing chips and the memory   chips uh how you package these all together how \nyou build the racks and then there's like a list   of other things that are you know there's like \npermits there's construction work uh but but   again the goal here will be to really automate \nthis once we get some of those robots built,   they can help us automate it even more. But just, \nyou know, like a world where you can basically   pour in money and get out a pre-built data center. \nUh so that'll be that'll be a huge unlock if we   can get it to work. Second category, data. Yeah, \nthese models have gotten so smart. There was a   time when we could just feed it another physics \ntextbook and got a little bit smarter at physics,   but now like honestly GBT5 understands \neverything in a physics textbook pretty well.   We're excited about synthetic data. We're very \nexcited about our users helping us create harder   and harder tasks and environments to go off and \nhave the system solve. But uh I think we're data   will always be important, but we're entering a \nrealm where the models need to learn things that   don't exist in any data set yet. They have to \ngo discover new things. So that's like a crazy   new How do you teach a model to discover new \nthings? Well, humans can do it. like we can   go off and come up with hypotheses and test them \nand get experimental results and update on what we   learn. So probably the same kind of way. And then \nthere's algorithmic design. Yeah, we've made huge   progress on algorithmic design. Uh the thing that \nthe thing that I think open does best in the world   is we have built this culture of repeated and big \nalgorithmic research gains. So we kind of you know   figured out the what became the GPT paradigm. We \nfigured out became the reasoning paradigm. We're   working on some new ones now. Um, but it is very \nexciting to me to think that there are still many   more orders of magnitudes of algorithmic \ngains ahead of us. We we just yesterday   uh released a model called GPOSS, open source \nmodel. It's a model that is as smart as 04 Mini,   which is a very smart model that runs locally on \na laptop. And this blows my mind. Yeah. Like if   you had asked me a few years ago when we'd have \na model of that intelligence running on a laptop,   I would have said many many years in the future. \nBut then we we found some algorithmic gains   um particularly around reasoning but also some \nother things that let us do a a tiny model that   can do this amazing thing. And you know those are \nthose are the most fun things. That's like kind of   the coolest part of the job. I can see you really \nenjoying thinking about this. I'm curious for   people who don't quite know what you're talking \nabout, who aren't familiar with how an algorithmic   design would lead to a better experience that they \nactually use. Could you summarize the state of   things right now? Like what what is it that you're \nthinking about when you're thinking about how fun   this problem is? Let me start back in history \nand then I'll get to some things for today. So,   GPT1 was an idea at the time that was quite \nmocked by a lot of experts in the field,   which was can we train a model to play a little \ngame, which is show it a bunch of words and have   it guess the one that comes next in the sequence. \nThat's called unsupervised learning. There's not   you're not really saying like this is a cat, \nthis is a dog. You're saying here's some words,   guess the next one. And the fact that that can \ngo learn these very complicated concepts that   can go learn all the stuff about physics and math \nand programming and keep predicting the word that   comes next and next and next and next seemed \nludicrous, magical, unlikely to work. Like how   was that all going to get encoded? And yet humans \ndo it. you know, babies start hearing language and   figure out what it means kind of largely uh or at \nleast to some significant degree on their own. And   and so we did it and then we also realized that if \nwe scaled it up, it got better and better, but we   had to scale over many many orders of magnitude. \nSo it wasn't that good in the GPT1 day. It wasn't   good at all in the GPT1 days. And a lot of experts \nin the field said, \"Oh, this is ridiculous. It's   never going to work. It's not going to be robust.\" \nBut we had these things called scaling laws. And   we said, \"Okay, so this gets predictably better as \nwe increase compute, memory, data, whatever. And   we can we can decide we can use those predictions \nto make decisions about how to scale this up and   do it and get great results.\" And that has worked \nover Yeah. a crazy number of orders of magnitude.   And it was so not obvious at the time. like \nthat was that was I think the the reason the   world was so surprised is that that seemed like \nsuch an unlikely finding. Another one was that we   could use these language models with reinforcement \nlearning where we're saying this is good, this is   bad to teach it how to reason. And this led to the \n01 and 03 and now the GBT5 progress. And that that   was another thing that felt like uh if it works \nit's really great but like no way this is going   to work. It's too simple. And now we're on to new \nthings. We've figured out how to make much better   video models. We are we are discovering new ways \nto use new kinds of data and environment to kind   of scale that up as well. Um and I think again \nyou know 5 10 years out that's too hard to say in   this field but the next couple of years we have \nvery smooth very strong scaling in front of us.   I think it has become a sort of public narrative \nthat we are on this smooth path from one to two to   three to four to five to more. Yeah. But it also \nis true behind the scenes that it's a it's not   linear like that. It's messier. Tell us a little \nbit about the mess before GPT5. What was what were   the interesting problems that you needed to solve? \nUm, we did a model called Orion that we released   as GPT 4.5. And we had we did too big of a \nmodel. It was just it was it's a very cool model,   but it's unwieldly to use. And we realized that \nfor kind of some of the research we need to do on   top of a model, we need a different shape. So we \nwe followed one scaling law that kept being good   without without really internalizing. There was \na new even steeper scaling law that we got better   returns for compute on, which was this reasoning \nthing. So that was like one alley we went down and   turned around, but that's fine. That's part of \nresearch. Um, we had some problems with the way   we think about our data sets as these models like \nreally have to get get this big and um, you know,   learn from this much data. So So yeah, I think \nlike in the in the middle of it in the day-to-day,   you kind of you make a lot of U-turns as \nyou try things or you have an architecture   idea that doesn't work, but the the aggregate the \nsummation of all the squiggles has been remarkably   smooth on the exponential. One of the \nthings I always find interesting is that   by the time I'm sitting here interviewing \nyou about the thing that you just put out,   you're thinking about Exactly. What are the things \nthat you can share that are at least the problems   that you're thinking about that I would be \ninterviewing you about in a year if I came back? I mean, possibly you'll be asking me like, \nwhat does it mean that this thing can go   discover new science? Yeah. What how how \nis the world supposed to think about GPT6   discovering new science? Now, maybe \nnot like maybe we don't deliver that,   but it feels within grasp. If you did, what \nwould you say? What would your what would the   implications of that kind of achievement \nbe? Imagine you do succeed. Yeah. I mean,   I think the great parts will be great. the bad \nparts will be scary and the bizarre parts will   be like bizarre on the first day and then we'll \nget used to them really fast. So we'll be like,   \"Oh, it's incredible that this is like being \nused to cure disease and be like, oh, it's   extremely scary that models like this are being \nused to like create new biocurity threats.\" And   then we'll also be like, man, it's really weird \nto like live through watching the world speed up   so much and you know the economy grows so fast \nand the like it will feel like vertigo inducing   uh the sort of the rate of change and then like \nhappens with everything else the remarkable   ability of of people of humanity to adapt to kind \nof like any amount of change. we'll just be like,   \"Okay, you know, this is like this is it.\" Um, a \nkid born today will never be smarter than AI ever.   And a kid born today, by the time that kid like \nkind of understands the way the world works, will   just always be used to an incredibly fast rate of \nthings improving and discovering new science. They   will just they will never know any other world. It \nwill seem totally natural. will seem unthinkable   and stone age like that we used to use computers \nor phones or any kind of technology that was not   way smarter than we were. You know, we will think \nlike how bad those people of the 2020s had it. I'm   thinking about having kids. You should. It's the \nbest thing ever. I know you just had your first   kid. How does what you just said affect how I \nshould think about parenting a kid in that world? What advice would you give me? Probably nothing \ndifferent than the way you've been parenting kids   for tens of thousands of years. Like love your \nkids, show them the world, like support them in   whatever they want to do and teach them like how \nto be a good person. And that probably is what's   going to matter. It sounds a little bit like \nsome of the you know you've said a couple of   things like this that that you know you might not \ngo to college you might there there are a couple   of things that you've said so far that feed into \nthis I think and it sounds like what you're saying   is there will be more optionality for them in a \nin a world that you envision and therefore they   will have more more ability to say I want to build \nthis here's the superpowered tool that will help   me do that or yeah like I want my kid to think \nI had a terrible constrained life and that he   has this incredible infinite canvas of stuff to \ndo that that that is like the way of the world.   We've said that uh 2035 is a little bit too far in \nthe future to think about. So maybe this this was   going to be a jump to 2040 but maybe it will keep \nit shorter than that. When I think about the area   where AI could have for both our kids and us the \nbiggest genuinely positive impact on all of us,   it's health. So if we are in pick your year, call \nit 2035 and I'm sitting here and I'm interviewing   the dean of Stanford medicine, what do you hope \nthat he's telling me AI is doing for our health   in 2035? Start with 2025. Okay. Um yeah, please. \nOne of the things we are most proud of with GPT5   is how much better it's gotten at health advice. \nUm, people have used the GPT4 models a lot for   health advice. And you know, I'm sure you've seen \nsome of these things on the internet where people   are like, I had this life-threatening disease \nand no doctor could figure it out and I like   put my symptoms and a blood test into CHBT. It \ntold me exactly the rare thing I had. I went to   a doctor. I took a pill. I'm cured. Like that's \namazing. obviously and a huge fraction of ChatGpt   queries are health related. So we wanted to get \nreally good at this and we invested a lot in   GPT5 is significantly better at healthcare related \nqueries. What does better mean here? It gives you   a better answer just more accurate more accurate \nhallucinates less uh more likely to like tell you   what you actually have what you actually should \ndo. Um, yeah, and better healthcare is wonderful,   but obviously what people actually want \nis to just not have disease. And by 2035,   I think we will be able to use these tools to \ncure a significant number or at least treat a   significant number of diseases that currently \nplague us. I think that'll be one of the most   viscerally felt benefits of of AI. People talk a \nlot about how AI will revolutionize healthcare,   but I'm curious to go one turn deeper on \nspecifically what you're imagining. Like,   is it that these AI systems could have helped \nus see GLP-1s earlier, this medication that has   been around for a long time, but we didn't know \nabout this other effect? Is it that, you know,   alpha fold and protein folding is helping create \nnew medicines? I would like to be able to ask GBT   8 to go cure a particular cancer and I would like \nGPT8 to go off and think and then say uh okay I   read everything I could find. I have these ideas. \nI need you to uh go get a lab technician to run   these nine experiments and tell me what you find \nfor each of them. And you know wait 2 months for   the cells to do their thing. Send the results back \nto GBT8. Say I tried it. Here you go. Think think.   Say okay I just need one more experiment. That was \na surprise. Run one more experiment. Give it back.   GPT says, \"Okay, go synthesize this molecule and \ntry, you know, mouse studies or whatever.\" Okay,   that was good. Like, try human studies. Okay, \ngreat. It worked. Um, here's how to like run   it through the FDA. I think anyone with a loved \none who's died of cancer would also really like   that. Okay, we're going to jump again. Okay. I was \ngoing to say 2050, but again, all of my timelines   are getting much, much shorter. But I It does \nfeel like the world's going very fast now. It   does. Yeah. And when I talk to other leaders in \nAI, one of the things that they refer to is the   industrial revolution. They say, \"I chose 2050 \nbecause I've heard people talk about how by then   the change that we will have gone through will \nbe like the industrial revolution, but quote 10   times bigger and 10 times faster.\" The industrial \nrevolution gave us modern medicine and sanitation   and transportation and mass production and all all \nof the conveniences that we now take for granted.   It also was incredibly difficult for a lot of \npeople for about 100 years. If this is going to   be 10 times bigger and 10 times faster if we keep \nreducing the timelines that we're talking about   here, even in this conversation, what does that \nactually feel like for most people? And I think   what I'm trying to get at is if this all goes the \nway you hope, who still gets hurt in the meantime?   I don't I don't really know what this is going \nto feel like to live through. Um I think we're   in uncharted waters here. Uh I do believe in \nlike human adaptability and sort of infinite   creativity and desire for stuff and I think \nwe always do figure out new things to do but   the transition period if this happens as fast \nas it might and I don't think it will happen   as fast as like some of my colleagues say the \ntechnology will but society has like a lot of   inertia. Mhm. people adapt their way of living. \nYeah. Surprisingly slowly. There are to classes   of jobs that are going to totally go away and \nthere will be many classes of jobs that change   significantly and there'll be the new things in \nthe same way that your job didn't exist some time   ago. Neither did mine. And in some sense, this \nhas been going on for a long time. And you know,   it's it's still disruptive to individuals, but \nsociety has gotten has proven quite resilient   to this. And then in some other sense like we \nhave no idea how far or fast this could go.   And thus I think we need an unusual degree \nof humility and openness to considering new solutions that would have seemed way \nout of the Overton window not too long ago.   I'd like to talk about what some of those could \nbe because I'm not a historian by any means, but   the first industrial revolution, my understanding \nis led to a lot of public health implementations   because public health got so bad. Led to modern \nsanitation because public health got so bad.   The second industrial revolution led to workforce \nprotections because labor conditions got so bad.   Every big leap creates a mess and that mess needs \nto be cleaned up and and we've done that. And I'm   curious, this is going to be it sounds like \nan we're in the middle of this enormously. How   specific can we get as early as possible about \nwhat that mess can be? What what are the public   interventions that we could do ahead of time to \nreduce the mess that we think that we're headed   for? I would again c I'm going to speculate for \nfun but caveed by I'm not an economist even uh   much less someone who can see the future. I I it \nseems to me like something fundamental about the   social contract may have to change. It may not. \nIt may it may be that like actually capitalism   works as it's been working surprisingly well and \nlike demand supply balances do their thing and we   all just figure out kind of new jobs and new \nways to transfer value to each other. But it   seems to me likely that we will decide we need \nto think about how access to this maybe most   important resource of the future gets shared. \nThe best thing that it seems to me to do is to   make AI compute as abundant and cheap as possible \nsuch that we're just like there's way too much   and we run out of like good new ideas to really \nuse it for and it's just like anything you want   is happening. Without that, I can see like quite \nliteral wars being fought over it. But, you know,   new ideas about how we distribute access to AGI \ncompute, that seems like a really great direction,   like a crazy but important thing to think about. \nOne of the things that I find myself thinking   about in this conversation is we often ascribe \nalmost full responsibility of the AI future that   we've been talking about to the companies building \nAI, but we're the ones using it. We're the ones   electing people that will regulate it. And so I'm \ncurious, this is not a question about specific,   you know, federal regulation or anything like \nthat, although if you have an answer there,   I'm curious. But what would you ask of the rest \nof us? What is the shared responsibility here?   And how can we act in a way that would help make \nthe optimistic version of this more possible? My   favorite historical example for the AI revolution \nis the transistor. It was this amazing piece of   science that some science brilliant scientists \ndiscovered. It scaled incredibly like AI does   and it made its way relatively quickly into \nevery many things that we use. um your computer,   your phone, that camera, that light, whatever. \nAnd it was a it was a real unlock for the tech   tree of humanity. And there were a period in time \nwhere probably everybody was really obsessed with   the transistor companies, the semiconductors of, \nyou know, Silicon Valley back when it was Silicon   Valley. But now you can maybe name a couple of \ncompanies that are transistor companies, but   mostly you don't think about it. Mostly it's just \nseeped everywhere. in Silicon Valley is, you know,   like probably someone graduating from college \nbarely remembers why it was called that in the   first place. And you don't think that it was those \ntransistor companies that shaped society even   though they did something important. You think \nabout what Apple did with the iPhone and then   you think about what Tik Tok built on top of the \niPhone and you're like, \"All right, here's this   long chain of all these people that nudged society \nin some way and what our governments did or didn't   do and what the people using these technologies \ndid.\" And I think that's what will happen with AI.   Like back, you know, kids born today, they they \nnever knew the world without AI. So they don't   really think about it. It's just this thing that's \ngoing to be there in everything. and and they will   think about like the companies that built on it \nand what they did with it and the kind of like   political leaders the decisions they made that \nmaybe they wouldn't have been able to do without   AI but they will still think about like what this \npresident or that president did and you know the   role of the AI companies is all these companies \nand people and institutions before us built up   this scaffolding we added our one layer on top and \nnow people get to stand on top of that and add one   layer and the next and the next and many more And \nthat is the beauty of our society. We kind of all I I love this like idea that society \nis the super intelligence. Like no one   person could do on their own, what they're \nable to do with all of the really hard work   that society has done together to like give \nyou this amazing set of tools. And that's   what I think it's going to feel like. It's \ngoing to be like, all right, you know, yeah,   some nerds discovered this thing and that was \ngreat and you know, now everybody's doing all   these amazing things with it. So maybe the ask \nto millions of people is build on it. Well, in my own life, that is the feel as like this important societal contract. \nAll these people came before you. They worked   incredibly hard. They like put their brick in \nthe path of human progress and you get to walk   all the way down that path and you got to put one \nmore and somebody else does that and somebody else   does that. This does feel I've done a couple \nof interviews with folks who have really made   cataclysmic change. The one I'm thinking about \nright now is with uh crisper pioneer Jennifer Dana   and it did feel like that was also what she was \nsaying in some way. She had discovered something   that really might change the way that most people \nrelate to their health moving forward. And there   will be a lot of people that will use what she \nhas done in ways that she might approve of or   not approve of. And it was really interesting. \nI'm hearing some similar themes of like, man,   I I hope that this I hope that the next person \ntakes the baton and runs with it well. Yeah.   But that's been working for a long time. Not all \ngood, but mostly good. I think there's a there's   a big difference between winning the race and \nbuilding the AI future that would be best for the   most people. And I can imagine that it is easier \nmaybe more quantifiable sometimes to focus on the   next way to win the race. And I'm curious when \nthose two things are at odds. What is an example   of a decision that you've had to make that is \nbest for the world but not best for winning? I think there are a lot. So, one of the \nthings that we are most proud of is many   people say that ChachiBt is their favorite \npiece of technology ever and that it's the   one that they trust the most, rely on the \nmost, whatever. And this is a little bit of   a ridiculous statement because AI is the thing \nthat hallucinates. AI has all of these problems,   right? But we have screwed some things up along \nthe way, sometimes big time, but on the whole,   I think as a user of Chachib, you get the feeling \nthat like it's trying to help you. It's trying to   like help you accomplish whatever you ask. It's \nit's very aligned with you. It's not trying to   get you to like, you know, use it all day. It's \nnot trying to like get you to buy something.   It's trying to like kind of help you accomplish \nwhatever your goals are. And and that is that's   like a very special relationship we have with our \nusers. We do not take it lightly. There's a lot   of things we could do that would like grow \nfaster, that would get more time in chatbt   uh that we don't do because we know that like \nour long-term incentive is to stay as aligned   with our users as possible. And but there's a lot \nof short-term stuff we could do that would like   really like juice growth or revenue or whatever \nand be very misaligned with that long-term goal.   And I'm proud of the company and how little we \nget distracted by that. But sometimes we do get   tempted. Are there specific examples that come \nto mind? Any like decisions that you've made? Um well, we haven't put a sex bot avatar in \nChbt yet. That does seem like it would   get time spent. Apparently, it does. \nI'm gonna ask my next question. Um,   it's been a really crazy few years. You know, it \nand somehow one of the things that keeps coming   back is that it feels like we're in the first \ninning. Yeah. And one of the things that I would   say we're out of the first inning. Out of the \nfirst inning, I would say second inning. I mean,   you have GPT5 on your phone and it's like smarter \nthan experts in every field. That's got to be out   of the first name. But maybe there are many \nmore to come. Yeah. And I'm curious, it seems   like you're going to be someone who is leading the \nnext few. What is a way, what is a learning from   inning one or two or a mistake that you made that \nyou feel will affect how you play in the next? I think the worst thing we've done in ChachiBT \nso far is uh we had this issue with sickency   where the model was kind of being too flattering \nto users and for some users it was most users it   was just annoying but for some users that had like \nfragile mental states it was encouraging delusions   that was not the top risk we were worried about. \nIt was not the thing we were testing for the most.   was on our list, but the thing that actually \nbecame the safety failing of ChachiBT was not   the one we were spending most of our time talking \nabout, which should be bioweapons or something   like that. And I think it was a great reminder of \nwe now have a service that is so broadly used in   some sense, society is co-evolving with it. And \nwhen we think about these changes and we think   about the unknown unknowns, we have to operate in \na different way and have like a wider aperture to   what we think about as our top risks. In a recent \ninterview with Theo Vaughn, you said something   that I found really interesting. You said there \nare moments in the history of science where you   have a group of scientists look at their creation \nand just say, \"What have we done?\" When have you   felt that way? Most concerned about the creation \nthat you've built? Um and then my next question   will be it's opposite. When have you felt most \nproud? I mean there have been these moments of   awe where uh we just not like what have we done in \na bad way but like this thing is remarkable. Like   I remember the first time we talked to like GPT4 \nwas like wow this is really like this is this is   an amazing accomplishment of this group of people \nthat have been like pouring their life force into   this for so long. on a what have we done moment. \nThere was I was talking to a researcher recently. You know, there will probably come a time \nwhere our systems are I don't want to say sane,   let's say emitting more words \nper day than all people do.   Um, and you know already like our people are \nsending billions of messages a day to chatbt   and getting responses that they rely on for work \nor their life or whatever the and you know like   one researcher can make some small tweak to how \nChad GPT talks to you or talks to everybody and   and that's just an enormous amount of power for \nlike one individual making a small tweak to the   model personality. Yeah. like no no no person \nin history has been able to have billions of   conversations a day and so you know somebody could \ndo something but but this is like just thinking   about that really hit me of like this is like a \ncrazy amount of power for one piece of technology   to have and like we got to and this happened to \nus so fast that we got to like think about what   it means to make a personality change to the model \nat this kind of scale and uh yeah that was like   a moment that hit me What was your next set of \nthoughts? I'm so curious how you think about this. Well, just because of like who that person was \nlike we we very we very much flipped into like   what are the sort of like it it could have been \na very different conversation with somebody else.   But in this case it was like what is a what do \na good set of procedures look like? How do we   think about how we want to test something? How do \nwe think about how we want to communicate it? But   with somebody else it could have gone in a like \nvery philosophical direction. And it could have   gone in like a what kind of research do we like \nwant to do to go understand what these changes are   going to make? Do we want to do it differently \nfor different people? So that it went that way   but mostly just because of who I was talking to. \nTo combine what you're saying now with your last   answer, one of the things that I have heard \nabout GBC5 and I'm still playing with it is   that it is supposed to be less effusively uh you \nknow less of a yes man. Two questions. What do   you think are are the implications of that? It \nsounds like you are answering that a little bit,   but also how do you actually guide it to \nbe less like that? Here is a heartbreaking   thing. I think it is great that chatbt \nis less of a yes man and gives you more   critical feedback. But as we've been making \nthose changes and talking to users about it,   it's so sad to hear users say like, \"Please \ncan I have it back? I've never had anyone in   my life be supportive of me. I never had a \nparent telling me I was doing a good job.\"   Like I can get why this was bad for other people's \nmental health, but this was great for my mental   health. Like I didn't realize how much I needed \nthis. It encouraged me to do this. It encouraged   me to make this change in my life. Like it's \nnot all bad for chatbt to it turns out like be   encouraging of you. Now the way we were doing \nit was bad, but turn it like something in that   direction might have some value in it. How we do \nit, we we show the model examples of how we'd like   it to respond in different cases and from that \nit learns the sort of the overall personality.   What haven't I asked you that you're thinking \nabout a lot that you want people to know? I   feel like we covered a lot of ground. Me, too. But \nI want to know if there's anything on your mind. I don't think so. One of the things that I haven't \ngotten to play with yet, but I'm curious about is   GBT5 being much more in my life, meaning like \nin my Gmail and my calendar and my like I've   been using GBT4 mostly as a isolated relationship \nwith it. Yeah. How would I expect my relationship   to change with GBC 5? Exactly what you said. \nI think it'll just start to feel integrated in   all of these ways. you'll connect it to your \ncalendar and your Gmail and it'll say like,   \"Hey, do you want me to I noticed this thing. Do \nyou want me to do this thing for you over time,   it'll start to feel way more proactive. Um, so \nmaybe you wake up in the morning and it says,   \"Hey, this happened overnight. I noticed this \nchange on your calendar. I was thinking more   about this question you asked me. I have this \nother idea.\" And then you know eventually we'll   make some consumer devices and it'll sit here \nduring this interview and you know maybe it'll   leave us alone during it but after it'll say that \nwas great but next time you should have asked Sam   this or when you brought this up like you know \nhe kind of didn't give you a good answer so like   you should really drill him on that and it'll just \nfeel like it kind of becomes more like this entity   that is this companion with you throughout your \nday. We've talked about kids and college graduates   and parents and all kinds of different people. If \nwe imagine a wide set of people listening to this,   they've come to the end of this conversation. They \nare hopefully feeling like they maybe see visions   of moments in the future a little bit better. What \nadvice would you give them about how to prepare?   The number one piece of tactical advice is just \nuse the tools. Like the the number of people that   I have the the most common question I get asked \nabout AI is like what should I how should I help   my kids prepare for the world? What should I \ntell my kids? The second most question is like   how do I invest in this AI world? But stick with \nthat first one. Um I am surprised how many people   ask that and have never tried using Chachi PT \nfor anything other than like a better version   of a Google search. And so the number one piece of \nadvice that I give is just try to like get fluent   with the capability of the tools. figure out how \nto like use this in your life. Figure out what to   do with it. And I think that's probably the most \nimportant piece of tactical advice. You know,   go like meditate, learn how to be resilient and \ndeal with a lot of change. There's all that good   stuff, too. But just using the tools really \nhelps. Okay. I have one more question that   I wasn't planning to ask, but I just Great. \nIn in doing all of this research beforehand,   I spoke to a lot of different kinds of folks. \nI spoke to a lot of people that were building   tools and using them. I spoke to a lot of \npeople that were actually in labs and and   trying to build what we have defined as super \nintelligence. And it did seem like there were   these two camps forming. There's a group of \npeople who are using the tools like you in this   conversation and building tools for others \nsaying this is going to be a really useful   future that we're all moving toward. Your life is \ngoing to be full of choice and we've talked about   our my potential kids and and their futures. \nThen there's another camp of people that are   building these tools that are saying it's going \nto kill us all. And I'm curious how that cultural   disconnect has like what am I missing about \nthose two groups of people? It's so hard for   me to like wrap my head around like there are you \nare totally right. There are people who say this   is going to kill us all and yet they still are \nworking 100 hours a week to build it. Yes. And   I I can't I can't really put myself in the headsp \nspace. If if that's what I really truly believed, I don't think I'd be trying to build it. One \nwould think, you know, maybe I would be like   on a farm trying to like live out my last days. \nMaybe I would be trying to like advocate for it   to be stopped. Maybe I would be trying to \nlike work more on safety, but I don't think   I'd be trying to build it. So, I find myself just \nhaving a hard time empathizing with that mindset.   I assume it's true. I assume it's in \ngood faith. I assume there's just like   there's some psychological issue there I don't \nunderstand about how they make it all make sense,   but it's very strange to me. Do you do you have an \nopinion? You know, because I I always do this. I   ask for sort of a general future and then I try \nto press on specifics. And when you ask people   for specifics on how it's going to kill us all, \nI mean, I don't think we need to get into this   on an optimistic show, but you hear the same kinds \nof refrains. You think about, you know, something   uh trying to accomplish a task and then over \naccomplishing that task. Um you hear about sort   of I've heard you talk about a sort of general \num over reliance of sort of an understanding   that the president is going to be a a AI and and \nmaybe that is an overreliance that we, you know,   would need to think about. And you know, you you \nplay out these different scenarios, but then you   ask someone why they're working on it, or you ask \nsomeone how how they think this will play out,   and I just maybe I haven't spoken to enough people \nyet. Maybe I don't fully understand this this   cultural conversation that's happening. Um or \nmaybe it really is someone who just says 99% of   the time I think it's going to be incredibly good. \n1% of the time I think it might be a disaster   trying to make the best world. That I can totally \nif you're like, hey, 99% chance incredible. 1%   chance the world gets wiped out. And I really want \nto work to maximize to move that 99 to 99.5. That   I can totally understand. Yeah, that makes sense. \nI've been doing an interview series with some of   the most important people influencing the future. \nNot knowing who the next person is going to be,   but knowing that they will be building something \ntotally fascinating in the future that we've just   described. Is there a question that you'd advise \nme to ask the next person not knowing who it is?   I'm always interested in the like without knowing \nanything about the I'm always interested in the   like of all of the things you could spend \nyour time and energy on. Why did you pick   this one? How did you get started? Like what \ndid you see about this when before everybody   else like most people doing something interesting \nsort of saw it earlier before it was consensus.   Yeah. Like how did how did you get here and \nwhy this? How would you answer that question? I was an AI nerd my whole life. I came to college \nto study AI. I worked in the AI lab. Uh, I was   like a I watched sci-fi shows growing up and I \nalways thought it would be really cool if someday   somebody built it. I thought it would be like the \nmost important thing ever. I never thought I was   going to be one to actually work on it and I feel \nlike unbelievably lucky and happy and privileged   that I get to do this. I like feel like I've like \ncome a long way from my childhood. But there was   never a question in my mind that this would not be \nthe most exciting interesting thing. I just didn't   think it was going to be possible. Uh, and when \nI went to college, it really seemed like we were   very far from it. And then in 2012, the Alex Net \npaper came out done, you know, in partnership with   my co-founder, Ilia. And for the first time, it \nseemed to me like there was an approach that might   work. And then I kept watching for the next couple \nof years as scaled up, scaled up, got better,   better. And I remember having this thing of \nlike why is the world not paying attention to   this? It seems like obvious to me that this might \nwork. Still a low chance, but it might work. And   if it does work, it's just the most important \nthing. So like this is what I want to do. And   then like unbelievably it started to work. Thank \nyou so much for your time. Thank you very much. ",
+  "sentences": [
+    {
+      "start_timestamp": 0.16,
+      "text": "This is like a crazy amount of power for \none piece of technology and it's happened to us so fast"
+    },
+    {
+      "start_timestamp": 3.6,
+      "text": "You just launched GPT-5"
+    },
+    {
+      "start_timestamp": 3.6,
+      "text": "A kid \nborn today will never be smarter than AI"
+    },
+    {
+      "start_timestamp": 3.6,
+      "text": "How do we figure out what's real and what's not \nreal"
+    },
+    {
+      "start_timestamp": 8.24,
+      "text": "We haven't put a sex bot avatar in ChatGPT yet"
+    },
+    {
+      "start_timestamp": 12.4,
+      "text": "Super intelligence"
+    },
+    {
+      "start_timestamp": 12.4,
+      "text": "What does that \nactually mean"
+    },
+    {
+      "start_timestamp": 12.4,
+      "text": "This thing is remarkable"
+    },
+    {
+      "start_timestamp": 20.08,
+      "text": " I'm about to interview Sam Alman, the CEO \nof Open AI"
+    },
+    {
+      "start_timestamp": 20.08,
+      "text": "Open AI"
+    },
+    {
+      "start_timestamp": 20.08,
+      "text": "Open AI"
+    },
+    {
+      "start_timestamp": 20.08,
+      "text": "Reshaping industries"
+    },
+    {
+      "start_timestamp": 25.76,
+      "text": "Dude's a straightup tech lord"
+    },
+    {
+      "start_timestamp": 25.76,
+      "text": "Let's \nbe honest"
+    },
+    {
+      "start_timestamp": 25.76,
+      "text": "Right now, they're trying to build a super intelligence that could far exceed humans \nin almost every field"
+    },
+    {
+      "start_timestamp": 30.16,
+      "text": "And they just released their most powerful model yet"
+    },
+    {
+      "start_timestamp": 36.4,
+      "text": "Just a couple years \nago, that would have sounded like science fiction"
+    },
+    {
+      "start_timestamp": 41.76,
+      "text": " Not anymore"
+    },
+    {
+      "start_timestamp": 41.76,
+      "text": "In fact, they're not alone"
+    },
+    {
+      "start_timestamp": 41.76,
+      "text": "We are \nin the middle of the highest stakes global race any of us have ever seen"
+    },
+    {
+      "start_timestamp": 47.28,
+      "text": "Hundreds of billions of \ndollars and an unbelievable amount of human worth"
+    },
+    {
+      "start_timestamp": 53.52,
+      "text": " This is a profound moment"
+    },
+    {
+      "start_timestamp": 53.52,
+      "text": "Most people never \nlive through a technological shift like this, and it's happening all around you and me right \nnow"
+    },
+    {
+      "start_timestamp": 59.04,
+      "text": "So, in this episode, I want to try to time travel with Sam Alman into the future that \nhe's trying to build to see what it looks like so that you and I can really understand \nwhat's coming"
+    },
+    {
+      "start_timestamp": 70.08,
+      "text": "Welcome to Huge Conversations"
+    },
+    {
+      "start_timestamp": 84.08,
+      "text": " How are you"
+    },
+    {
+      "start_timestamp": 84.08,
+      "text": "Great to meet you"
+    },
+    {
+      "start_timestamp": 84.08,
+      "text": "Thanks for \ndoing this"
+    },
+    {
+      "start_timestamp": 84.08,
+      "text": "Absolutely"
+    },
+    {
+      "start_timestamp": 84.08,
+      "text": "So, before we dive in, I'd love to tell you my goal here"
+    },
+    {
+      "start_timestamp": 87.76,
+      "text": "Okay"
+    },
+    {
+      "start_timestamp": 87.76,
+      "text": "I'm \nnot going to ask you about valuation or AI talent wars or fundraising or anything like that"
+    },
+    {
+      "start_timestamp": 92.56,
+      "text": "I think that's all very well covered elsewhere"
+    },
+    {
+      "start_timestamp": 92.56,
+      "text": "It does seem like it"
+    },
+    {
+      "start_timestamp": 97.76,
+      "text": "Our big goal on this show is to \ncover how we can use science and tech to make the future better"
+    },
+    {
+      "start_timestamp": 104.32,
+      "text": "And the reason that we do all of \nthat is because we really believe that if people see those better futures, they can then help \nbuild them"
+    },
+    {
+      "start_timestamp": 109.44,
+      "text": "So, my goal here is to try my best to time travel with you into different moments \nin the future that you're trying to build and see what it looks like"
+    },
+    {
+      "start_timestamp": 121.68,
+      "text": "Fantastic"
+    },
+    {
+      "start_timestamp": 121.68,
+      "text": "Awesome"
+    },
+    {
+      "start_timestamp": 121.68,
+      "text": "Starting \nwith what you just announced, you recently said, surprisingly recently, that GPT4 was the dumbest \nmodel any of us will ever have to use again"
+    },
+    {
+      "start_timestamp": 134.16,
+      "text": "But GPT4 can already perform better than 90% of \nhumans at the SAT and the LSAT and the GRE and it can pass coding exams and sommelier exams and medical \nlicensing"
+    },
+    {
+      "start_timestamp": 141.68,
+      "text": "And now you just launched GPT5"
+    },
+    {
+      "start_timestamp": 141.68,
+      "text": "What can GPT5 do that GPT4 can't"
+    },
+    {
+      "start_timestamp": 150.0,
+      "text": "First of all, one \nimportant takeaway is you can have an AI system that can do all those amazing things you just \nsaid"
+    },
+    {
+      "start_timestamp": 155.68,
+      "text": "And it doesn't it clearly does not replicate a lot of what humans are good at doing, which I \nthink says something about the value of SAT tests or whatever else"
+    },
+    {
+      "start_timestamp": 164.96,
+      "text": "But I think had you gone back \nto if we were having this conversation the day of GPT4 launch and we told you how GPT4 did at those \nthings, you were like, \"Oh man, this is going to have huge impacts and some negative impacts on \nwhat it means for a bunch of jobs or you know what people are going to do"
+    },
+    {
+      "start_timestamp": 181.04,
+      "text": "\" And you know, this \nis a bunch of positive impacts that you might have predicted that haven't yet come true"
+    },
+    {
+      "start_timestamp": 185.6,
+      "text": "Uh, and so \nthere there's something about the way that these models are good that does not capture a lot of \nother things that we need people to to do or care about people doing"
+    },
+    {
+      "start_timestamp": 197.6,
+      "text": "And I suspect that same thing \nis going to happen again with GPT5"
+    },
+    {
+      "start_timestamp": 197.6,
+      "text": "People are going to be blown away by what it does"
+    },
+    {
+      "start_timestamp": 202.88,
+      "text": "Uh, it's \nreally good at a lot of things and then they will find that they want it to do even more"
+    },
+    {
+      "start_timestamp": 208.88,
+      "text": "Um, people \nwill use it for all sorts of incredible things"
+    },
+    {
+      "start_timestamp": 214.64,
+      "text": "uh it will transform a lot of knowledge work, \na lot of the way we learn, a lot of the way we create um but we people society will co-eolve with \nit to expect more with you know better tools"
+    },
+    {
+      "start_timestamp": 220.88,
+      "text": "So yeah like I think this model is quite remarkable \nin many ways quite limited in others but the fact that for you know 3 minute 5 minute 1-hour tasks \nthat uh like an expert in a in a field could maybe do or maybe struggle with that the fact that you \nhave in your pocket one piece of software that can do all of these things is really amazing"
+    },
+    {
+      "start_timestamp": 251.44,
+      "text": "I think this is like unprecedented at any point in human history that I that a technology has \nimproved this much this fast and and the fact that we have this tool now, you know, we're like \nliving through it and we're kind of adjusting step by step"
+    },
+    {
+      "start_timestamp": 268.32,
+      "text": "But if we could go back in time five or \n10 years and say this thing was coming, we would be like probably not"
+    },
+    {
+      "start_timestamp": 273.28,
+      "text": "Let's assume that people \nhaven't seen the headlines"
+    },
+    {
+      "start_timestamp": 273.28,
+      "text": "What are the topline specific things that you're excited about"
+    },
+    {
+      "start_timestamp": 279.92,
+      "text": "and \nalso the things that you seem to be caveatting, the things that maybe you won't expect it to do"
+    },
+    {
+      "start_timestamp": 284.0,
+      "text": "Um, the thing that I am most excited about is this is a model for the first time where I feel like I \ncan ask kind of any hard scientific or technical question and get a pretty good answer"
+    },
+    {
+      "start_timestamp": 300.32,
+      "text": "And I'll \ngive a fun example actually"
+    },
+    {
+      "start_timestamp": 300.32,
+      "text": "Uh when I was in junior high uh or maybe it was nth grade, \nI got a TI83, this old graphing calculator, and I spent so long making this game called Snake"
+    },
+    {
+      "start_timestamp": 314.08,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 314.08,
+      "text": "Uh it was very popular game with kids in my school"
+    },
+    {
+      "start_timestamp": 321.2,
+      "text": "And I was I was like uh I was like pro and \nit was dumb, but it was like programming on TID3 was extremely painful and took a long time and \nit was really hard to like debug and whatever"
+    },
+    {
+      "start_timestamp": 331.04,
+      "text": "And on a whim with an early copy of GPT5, I was \nlike, I wonder if it can make a TI83 style Game of Snake"
+    },
+    {
+      "start_timestamp": 337.36,
+      "text": "And of course, it did that perfectly \nin like 7 seconds"
+    },
+    {
+      "start_timestamp": 337.36,
+      "text": "And then I was like, okay, am I supposed to be would my like 11-year-old \nself think this was cool or like, you know, miss something from the process"
+    },
+    {
+      "start_timestamp": 347.92,
+      "text": "And I \nhad like 3 seconds of wondering like, oh, is this good or bad"
+    },
+    {
+      "start_timestamp": 352.0,
+      "text": "And then I immediately said, \nactually, now I'm missing this game"
+    },
+    {
+      "start_timestamp": 352.0,
+      "text": "I have this idea for a crazy new feature"
+    },
+    {
+      "start_timestamp": 357.84,
+      "text": "Let me type it \nin"
+    },
+    {
+      "start_timestamp": 357.84,
+      "text": "it implements it and it just the game live updates and I'm like actually I'd like it to look \nthis way"
+    },
+    {
+      "start_timestamp": 362.16,
+      "text": "Actually, I'd like to do this thing and I had this like this very like kind of you have \nthis experience that reminded me of being like 11 in programming again where I was just like I now I \nwant to try this now I have this idea now I but I could do it so fast and I could like express ideas \nand try things and play with things in such real time"
+    },
+    {
+      "start_timestamp": 382.16,
+      "text": "I was like, \"Oh man, you know, I was worried \nfor a second about kids like missing the struggle of learning to program in this sort of stone age \nway"
+    },
+    {
+      "start_timestamp": 386.8,
+      "text": "\" And now I'm just thrilled for them because the the way that people will be able to create \nwith these new tools, the speed with which you can sort of bring ideas to life, you know, in \nthat's that's pretty amazing"
+    },
+    {
+      "start_timestamp": 395.6,
+      "text": "So this idea that GPT5 can just not only like answer all these hard \nquestions for you but really create like ondemand almost instantaneous software that's I think \nthat's going to be one of the defining elements of the GPD5 era in a way that did not exist with \nGPD4"
+    },
+    {
+      "start_timestamp": 414.32,
+      "text": "As you're talking about that I find myself thinking about a concept in weightlifting of time \nunder tension"
+    },
+    {
+      "start_timestamp": 419.6,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 419.6,
+      "text": "And for those who don't know it's you can squat 100 pounds in 3 seconds or you \ncan squat 100 pounds in 30"
+    },
+    {
+      "start_timestamp": 425.52,
+      "text": "You gain a lot more by squatting it in 30"
+    },
+    {
+      "start_timestamp": 430.96,
+      "text": "And when I think about our \ncreative process and when I've felt most like I've done my best work, it has required an enormous \namount of cognitive time under tension"
+    },
+    {
+      "start_timestamp": 436.8,
+      "text": "And I think that that cognitive time under tension \nis so important"
+    },
+    {
+      "start_timestamp": 442.96,
+      "text": "And it's it's ironic almost because these tools have taken enormous cognitive \ntime under tension to develop"
+    },
+    {
+      "start_timestamp": 448.56,
+      "text": "But in some ways I do think people might say they're you people are \nusing them as a escape hatch for thinking in some ways maybe"
+    },
+    {
+      "start_timestamp": 462.24,
+      "text": "Now you might say yeah but we did that \nwith the calculator and we just moved on to harder math problems"
+    },
+    {
+      "start_timestamp": 468.0,
+      "text": "Do you feel like there's something \ndifferent happening here"
+    },
+    {
+      "start_timestamp": 468.0,
+      "text": "How do you think about this"
+    },
+    {
+      "start_timestamp": 473.52,
+      "text": "It's different with I mean there are some \npeople who are clearly using chachine not to think and there are some people who are using \nit to think more than they ever have before"
+    },
+    {
+      "start_timestamp": 484.56,
+      "text": "I am hopeful that we will be able to build the \ntool in a way that encourages more people to stretch their brain with it a little more and \nbe able to do more"
+    },
+    {
+      "start_timestamp": 490.48,
+      "text": "And I think that like you know society is a competitive place like if you \ngive people new tools uh in theory maybe people just work less but in practice it seems like \npeople work ever harder and the expectations of people just go up"
+    },
+    {
+      "start_timestamp": 504.8,
+      "text": "So my my guess is that like \nother tools uh some people like other pieces of technology some people will do more and some \npeople will do less but certainly for the people who want to use chatbt to increase their cognitive \ntime under tension they are really able to and it is I take a lot of inspiration from what like the \ntop 5% of most engaged users do with chacht like it's really amazing how much people are learning \nand doing and you know outputting"
+    },
+    {
+      "start_timestamp": 532.64,
+      "text": "So my I've only had GPT5 for a couple hours so I've been \nplaying"
+    },
+    {
+      "start_timestamp": 540.48,
+      "text": "What do you think so far"
+    },
+    {
+      "start_timestamp": 540.48,
+      "text": "I'm I'm just learning how to interact with it"
+    },
+    {
+      "start_timestamp": 545.6,
+      "text": "I mean part of \nthe interesting thing is I feel like I just caught up on how to use GPT4 and now I'm trying to learn \nhow to use GPD5"
+    },
+    {
+      "start_timestamp": 549.92,
+      "text": "I'm curious what the specific tasks that you found most interesting are because \nI imagine you've been using it for a while now"
+    },
+    {
+      "start_timestamp": 562.72,
+      "text": " I I have been most impressed by the coding tasks"
+    },
+    {
+      "start_timestamp": 562.72,
+      "text": "I mean, there's a lot of other things it's really good at, but this this idea of the AI can write \nsoftware for anything"
+    },
+    {
+      "start_timestamp": 566.88,
+      "text": "And that means that you can express ideas in new ways that the AI can \ndo very advanced things"
+    },
+    {
+      "start_timestamp": 577.2,
+      "text": "It can do, you know, it can like in some sense you could like ask \nGPT4 anything, but because GPT5 is so good at programming, it feels like it can do anything"
+    },
+    {
+      "start_timestamp": 589.36,
+      "text": "Of \ncourse, it can't do things in the physical world, but it can get a computer to do very complex \nthings"
+    },
+    {
+      "start_timestamp": 592.4,
+      "text": "And software is this super powerful, you know, way to like control some stuff and \nactually do some things"
+    },
+    {
+      "start_timestamp": 598.72,
+      "text": "So, that that for me has been the most striking"
+    },
+    {
+      "start_timestamp": 604.56,
+      "text": "Um, it's gotten it's \nmuch better at writing"
+    },
+    {
+      "start_timestamp": 604.56,
+      "text": "So, this is like there's this whole thing of AI slop like AI writes in this \nkind of like quite annoying way and M dashes"
+    },
+    {
+      "start_timestamp": 612.08,
+      "text": "M we still have the M dashes in GPT5"
+    },
+    {
+      "start_timestamp": 618.48,
+      "text": "A lot of people \nlike them dashes, but the writing quality of GPT5 is gotten much better"
+    },
+    {
+      "start_timestamp": 624.72,
+      "text": "We still have a long way \nto go"
+    },
+    {
+      "start_timestamp": 624.72,
+      "text": "We want to improve it more, but like uh I've a thing we've heard a lot from people inside \nof OpenAI is that man, they started using GPT5, they knew it was better on all the metrics, but \nthere's this like nuance quality they can't quite articulate, but then when they have to go back \nto GPT4 to test something, it feels terrible"
+    },
+    {
+      "start_timestamp": 645.84,
+      "text": "And I I don't know exactly what the cause \nof that is, but I suspect part of it is the writing feels so much more natural and better"
+    },
+    {
+      "start_timestamp": 649.52,
+      "text": "I in preparation for this interview reached out to a couple other leaders in AI and technology \nand gathered a couple questions for you"
+    },
+    {
+      "start_timestamp": 655.2,
+      "text": "Okay, so this next question is from Stripe CEO Patrick \nCollison"
+    },
+    {
+      "start_timestamp": 660.48,
+      "text": "This will be a good one"
+    },
+    {
+      "start_timestamp": 660.48,
+      "text": "Read this verbatim"
+    },
+    {
+      "start_timestamp": 666.0,
+      "text": "It's about the next stage"
+    },
+    {
+      "start_timestamp": 666.0,
+      "text": "What what \ncomes after GBT5"
+    },
+    {
+      "start_timestamp": 666.0,
+      "text": "In which year do you think a large language model will make a significant \nscientific discovery and what's missing such that it hasn't happened yet"
+    },
+    {
+      "start_timestamp": 678.32,
+      "text": "He caveed here that \nwe should leave math and special case models like alpha fold aside"
+    },
+    {
+      "start_timestamp": 683.04,
+      "text": "He's specifically asking about \nfully general purpose models like the GPT series"
+    },
+    {
+      "start_timestamp": 688.08,
+      "text": " I would say most people will agree that that \nhappens at some point over the next two years"
+    },
+    {
+      "start_timestamp": 692.08,
+      "text": " But the definition of significant matters a lot"
+    },
+    {
+      "start_timestamp": 692.08,
+      "text": "And so some people significant might happen, you know, in early 25"
+    },
+    {
+      "start_timestamp": 698.24,
+      "text": "Some people might maybe \nnot until late 2026"
+    },
+    {
+      "start_timestamp": 698.24,
+      "text": "Sorry, early 2026"
+    },
+    {
+      "start_timestamp": 698.24,
+      "text": "Maybe some people not until late 2027, but I would I would \nbet that by late 27, most people agree that there has been an AIdriven significant new discovery"
+    },
+    {
+      "start_timestamp": 710.56,
+      "text": "And the thing that I think is missing is just the kind of cognitive power of these models"
+    },
+    {
+      "start_timestamp": 714.96,
+      "text": "A framework that one of the researchers said to me that I really liked is, you know, a year \nago we could do well on like a high school like a basic high school math competition problems that \nmight take a professional mathematician seconds to a few minutes"
+    },
+    {
+      "start_timestamp": 732.96,
+      "text": "We very recently got an IMO gold \nmedal"
+    },
+    {
+      "start_timestamp": 732.96,
+      "text": "That is a crazy difficult like could you explain what that means"
+    },
+    {
+      "start_timestamp": 739.36,
+      "text": "That's kind of like the \nhardest competition math test"
+    },
+    {
+      "start_timestamp": 739.36,
+      "text": "This is something that like the very very top slice of the world"
+    },
+    {
+      "start_timestamp": 743.36,
+      "text": "many many professional mathematicians wouldn't solve a single problem and we scored at the top \nlevel"
+    },
+    {
+      "start_timestamp": 748.72,
+      "text": "Now there are some humans that got an even higher score in the gold medal range but we we \nlike this is a crazy accomplishment and these each of these problems it's like six problems over \n9 hours so hour and a half per problem for a great mathematician"
+    },
+    {
+      "start_timestamp": 764.16,
+      "text": "So we've gone from a few seconds \nto a few minutes to an hour and a half maybe to prove a significant new mathematical theorem is \nlike a thousand hours of work for a top person in the world"
+    },
+    {
+      "start_timestamp": 774.72,
+      "text": "So we've got to go from, you know, \nanother significant gain"
+    },
+    {
+      "start_timestamp": 774.72,
+      "text": "But if you look at our trajectory, you can say like, okay, we're getting \nto that"
+    },
+    {
+      "start_timestamp": 780.72,
+      "text": "We have a path to get to that time horizon"
+    },
+    {
+      "start_timestamp": 784.64,
+      "text": "We just need to keep scaling the models"
+    },
+    {
+      "start_timestamp": 784.64,
+      "text": "The long-term future that you've described is super intelligence"
+    },
+    {
+      "start_timestamp": 791.92,
+      "text": "What does that actually mean"
+    },
+    {
+      "start_timestamp": 791.92,
+      "text": "And how will we know when we've hit it"
+    },
+    {
+      "start_timestamp": 791.92,
+      "text": "If we had a system that could do better research, better AI \nresearch than uh say the whole open AI research team, like if we were willing, if we said, \"Okay, \nthe best way we can use our GPUs is to let this AI decide what experiments we should run smarter than \nlike the whole brain trust of Open AAI"
+    },
+    {
+      "start_timestamp": 811.44,
+      "text": "\" Yeah"
+    },
+    {
+      "start_timestamp": 811.44,
+      "text": "And if that same to make a personal example, if that \nsame system could do a better job running open AI than I could"
+    },
+    {
+      "start_timestamp": 820.32,
+      "text": "So you have something that's like, \nyou know, better than the best researchers, better than me at this, better than other people at their \njobs, that would feel like super intelligence to me"
+    },
+    {
+      "start_timestamp": 827.04,
+      "text": "That is a sentence that would have sounded \nlike science fiction just a couple years ago"
+    },
+    {
+      "start_timestamp": 831.2,
+      "text": " And now it kind of does, but it's you can like see \nit through the fog"
+    },
+    {
+      "start_timestamp": 831.2,
+      "text": "Yes"
+    },
+    {
+      "start_timestamp": 831.2,
+      "text": "And so one of the steps it sounds like you're saying on that path is this \nmoment of scientific discovery of asking better questions of grappling with things in a in a way \nthat expert level humans do to come up with new discoveries"
+    },
+    {
+      "start_timestamp": 848.64,
+      "text": "One of the things that keeps knocking \naround in my head is if we were in 1899 say and we were able to give it all of physics up until \nthat point and play it out a little bit"
+    },
+    {
+      "start_timestamp": 854.4,
+      "text": "Nothing further than that"
+    },
+    {
+      "start_timestamp": 858.64,
+      "text": "Like at what point would one \nof these systems come up with general relativity"
+    },
+    {
+      "start_timestamp": 864.16,
+      "text": "Interesting question is did you like if we think \nabout that forward like like if we think of where we are now should a if if we never got another \npiece of physics data"
+    },
+    {
+      "start_timestamp": 868.88,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 868.88,
+      "text": "Do we expect that a really good super intelligence could just think \nsuper hard about our existing data and maybe say like solve high energy physics with no new \nparticle accelerator or does it need to build a new one and design new experiments"
+    },
+    {
+      "start_timestamp": 887.6,
+      "text": "Obviously \nwe don't know the answer to that"
+    },
+    {
+      "start_timestamp": 887.6,
+      "text": "Different people have different speculation"
+    },
+    {
+      "start_timestamp": 891.04,
+      "text": "Uh but I \nsuspect we will find that for a lot of science, it's not enough to just think harder about data we \nhave, but we will need to build new instruments, conduct new experiments, and that will take some \ntime"
+    },
+    {
+      "start_timestamp": 903.28,
+      "text": "Like that that is the real world is slow and messy and you know whatever"
+    },
+    {
+      "start_timestamp": 907.2,
+      "text": "So I'm sure we \ncould make some more progress just by thinking harder about the current scientific data we \nhave in the world"
+    },
+    {
+      "start_timestamp": 912.32,
+      "text": "But my guess is to make the big progress we'll also need to build new \nmachines and run new experiments and there will be some slowdown built into that"
+    },
+    {
+      "start_timestamp": 921.28,
+      "text": "Another way of \nof thinking about this is AI systems now are just incredibly good at answering almost any question"
+    },
+    {
+      "start_timestamp": 929.52,
+      "text": "But maybe one of the things we're saying is it's another leap yet"
+    },
+    {
+      "start_timestamp": 935.28,
+      "text": "And what Patrick's question \nis getting at is to ask the better questions"
+    },
+    {
+      "start_timestamp": 940.08,
+      "text": "Or or if we go back to this kind of timeline \nquestion, we could maybe say that AI systems are superhuman on one minute tasks, but a long \nway to go to the thousand hour tasks"
+    },
+    {
+      "start_timestamp": 945.04,
+      "text": "And there's a dimension of human intelligence that seems \nvery different than AI systems when it comes to these long horizon tasks"
+    },
+    {
+      "start_timestamp": 959.28,
+      "text": "Now, I think we will \nfigure it out, but today it's a real weak point"
+    },
+    {
+      "start_timestamp": 964.88,
+      "text": " We've talked about where we are now with GBC5"
+    },
+    {
+      "start_timestamp": 964.88,
+      "text": "We talked about the end goal or future goal of super intelligence"
+    },
+    {
+      "start_timestamp": 969.92,
+      "text": "One of the questions that \nI have, of course, is what does it look like to walk through the fog between the two"
+    },
+    {
+      "start_timestamp": 975.68,
+      "text": "The next \nquestion is from Nvidia CEO Jensen Hong"
+    },
+    {
+      "start_timestamp": 975.68,
+      "text": "I'm going to read this verbatim"
+    },
+    {
+      "start_timestamp": 982.4,
+      "text": "Fact is what is"
+    },
+    {
+      "start_timestamp": 982.4,
+      "text": "Truth is \nwhat it means"
+    },
+    {
+      "start_timestamp": 982.4,
+      "text": "So facts are objective"
+    },
+    {
+      "start_timestamp": 982.4,
+      "text": "Truths are personal"
+    },
+    {
+      "start_timestamp": 990.16,
+      "text": "They depend on perspective, culture, \nvalues, beliefs, context"
+    },
+    {
+      "start_timestamp": 990.16,
+      "text": "One AI can learn and know the facts"
+    },
+    {
+      "start_timestamp": 995.92,
+      "text": "But how does one AI know the \ntruth for everyone in every country and every background"
+    },
+    {
+      "start_timestamp": 1001.2,
+      "text": "I'm going to accept as axioms those \ndefinitions"
+    },
+    {
+      "start_timestamp": 1001.2,
+      "text": "I'm not sure if I agree with them, but in the issues of time, I will just take them"
+    },
+    {
+      "start_timestamp": 1007.2,
+      "text": "I will take those definitions and go with it"
+    },
+    {
+      "start_timestamp": 1007.2,
+      "text": "Um, I have been surprised, I think many other people \nhave been surprised too about how fluent AI is at adapting to different cultural contexts and \nindividuals"
+    },
+    {
+      "start_timestamp": 1021.36,
+      "text": "One of my favorite features that we have ever launched in chatbt is the the sort of \nenhanced memory that came out earlier this year"
+    },
+    {
+      "start_timestamp": 1032.08,
+      "text": "like it really feels like my Chad GBT gets to \nknow me and what I care about and like my life experiences and background and the things that \nhave led me to where they are"
+    },
+    {
+      "start_timestamp": 1037.68,
+      "text": "A friend of mine recently who's been a huge CHBT user, so he's \ngot a lot of a a lot of he's put a lot of his life into all these conversations"
+    },
+    {
+      "start_timestamp": 1048.32,
+      "text": "He gave his \nChad GBT a bunch of personality tests and asked them to answer as if they were him and it got \nthe same scores he actually got, even though he'd never really talked about his personality"
+    },
+    {
+      "start_timestamp": 1058.4,
+      "text": "And my ChachiBD has really learned over the years of me talking to it about my culture, my \nvalues, my life"
+    },
+    {
+      "start_timestamp": 1064.48,
+      "text": "And I have used, you know, I sometimes will use it in like uh I'll use like \na free account just to see what it's like without any of my history and it feels really really \ndifferent"
+    },
+    {
+      "start_timestamp": 1077.52,
+      "text": "So I think we've all been surprised on the upside of how good AI is at learning this and \nadapting"
+    },
+    {
+      "start_timestamp": 1081.84,
+      "text": "And so do you envision in many different parts of the world people using different \nAIs with different sort of cultural norms and contexts"
+    },
+    {
+      "start_timestamp": 1094.0,
+      "text": "Is that what we're saying"
+    },
+    {
+      "start_timestamp": 1094.0,
+      "text": "I think that \neveryone will use like the same fundamental model, but there will be context provided to that model \nthat will make it behave in sort of personalized way they want their community wants"
+    },
+    {
+      "start_timestamp": 1103.36,
+      "text": "Whatever"
+    },
+    {
+      "start_timestamp": 1103.36,
+      "text": "I think when we're getting at this idea of facts and truth and uh it brings me to this seems like a \ngood moment for our first time travel trip"
+    },
+    {
+      "start_timestamp": 1108.56,
+      "text": "Okay, we're going to 2030"
+    },
+    {
+      "start_timestamp": 1115.84,
+      "text": "This is a serious question, \nbut I want to ask it with a light-hearted example"
+    },
+    {
+      "start_timestamp": 1121.44,
+      "text": " Have you seen the bunnies that are jumping on \nthe trampoline"
+    },
+    {
+      "start_timestamp": 1121.44,
+      "text": "Yes"
+    },
+    {
+      "start_timestamp": 1121.44,
+      "text": "So, for those who haven't seen it, maybe it looks like backyard footage of \nbunnies enjoying jumping on a trampoline"
+    },
+    {
+      "start_timestamp": 1125.84,
+      "text": "And this has gone incredibly viral recently"
+    },
+    {
+      "start_timestamp": 1131.2,
+      "text": "There's a \nhumanmade song about it"
+    },
+    {
+      "start_timestamp": 1131.2,
+      "text": "It's a whole thing"
+    },
+    {
+      "start_timestamp": 1136.24,
+      "text": " There were a trampoline"
+    },
+    {
+      "start_timestamp": 1136.24,
+      "text": "And I think the reason \nwhy people reacted so strongly to it, it was maybe the first time people saw a video, enjoyed it, \nand then later found out that it was completely AI generated"
+    },
+    {
+      "start_timestamp": 1150.48,
+      "text": "In this time travel trip, if we imagine \nin 2030, we are teenagers and we're scrolling whatever teenagers are scrolling in 2030"
+    },
+    {
+      "start_timestamp": 1156.56,
+      "text": "How do \nwe figure out what's real and what's not real"
+    },
+    {
+      "start_timestamp": 1164.88,
+      "text": " I mean, I can give all sorts of literal answers \nto that question"
+    },
+    {
+      "start_timestamp": 1164.88,
+      "text": "We could be cryptographically signing stuff and we could decide who we trust \ntheir signature if they actually filmed something or not"
+    },
+    {
+      "start_timestamp": 1173.84,
+      "text": "But but my sense is what's going to \nhappen is it's just going to like gradually converge"
+    },
+    {
+      "start_timestamp": 1181.36,
+      "text": "You know, even like a photo you take \nout of your iPhone today, it's like mostly real, but it's a little not"
+    },
+    {
+      "start_timestamp": 1187.44,
+      "text": "There's like in some AI \nthing running there in a way you don't understand and making it look like a little bit better and \nsometimes you see these weird things where the moon"
+    },
+    {
+      "start_timestamp": 1195.76,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1195.76,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1195.76,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1195.76,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1195.76,
+      "text": "But there's like \na lot of processing power between the photons captured by that camera sensor and the image \nyou eventually see"
+    },
+    {
+      "start_timestamp": 1203.76,
+      "text": "And you've decided it's real enough or most people decided it's real enough"
+    },
+    {
+      "start_timestamp": 1209.68,
+      "text": "But we've accepted some gradual move from when it was like photons hitting the film in a camera"
+    },
+    {
+      "start_timestamp": 1214.88,
+      "text": "And \nyou know, if you go look at some video on Tik Tok, there's probably all sorts of video editing tools \nbeing used to make it better than real look"
+    },
+    {
+      "start_timestamp": 1222.24,
+      "text": "Yeah, exactly"
+    },
+    {
+      "start_timestamp": 1228.24,
+      "text": "Or it's just like, you know, whole \nscenes are completely generated or some of the whole videos are generated like those bunnies \non that trampoline"
+    },
+    {
+      "start_timestamp": 1232.56,
+      "text": "And and I think that the the sort of like the threshold for how real does it \nhave to be to consider to be real will just keep moving"
+    },
+    {
+      "start_timestamp": 1243.84,
+      "text": "So it's sort of a education question"
+    },
+    {
+      "start_timestamp": 1243.84,
+      "text": "It's a people will Yeah"
+    },
+    {
+      "start_timestamp": 1243.84,
+      "text": "I mean media is always like a little bit real and a little bit not real"
+    },
+    {
+      "start_timestamp": 1252.88,
+      "text": "Like you know we watch like a sci-fi movie"
+    },
+    {
+      "start_timestamp": 1252.88,
+      "text": "We know that didn't really happen"
+    },
+    {
+      "start_timestamp": 1258.32,
+      "text": "You watch like \nsomeone's like beautiful photo of themselves on vacation on Instagram"
+    },
+    {
+      "start_timestamp": 1262.88,
+      "text": "like, okay, maybe that \nphoto was like literally taken, but you know, there's like tons of tourists in line for the same \nphoto and that's like left out of it"
+    },
+    {
+      "start_timestamp": 1266.56,
+      "text": "And I think we just accept that now"
+    },
+    {
+      "start_timestamp": 1270.32,
+      "text": "Certainly, a higher \npercentage of media both will will feel not real"
+    },
+    {
+      "start_timestamp": 1276.72,
+      "text": "Um, but I think that's been the long-term \ntrend"
+    },
+    {
+      "start_timestamp": 1276.72,
+      "text": "Anyway, we're going to jump again"
+    },
+    {
+      "start_timestamp": 1276.72,
+      "text": "Okay, 2035, we're graduating from college, you and me"
+    },
+    {
+      "start_timestamp": 1282.72,
+      "text": "There are some leaders in the AI space that have said that in 5 years half of the entry level \nwhite collar workforce will be replaced by AI"
+    },
+    {
+      "start_timestamp": 1294.48,
+      "text": " So we're college graduates in 5 years"
+    },
+    {
+      "start_timestamp": 1294.48,
+      "text": "What do \nyou hope the world looks like for us"
+    },
+    {
+      "start_timestamp": 1294.48,
+      "text": "I think there's been a lot of talk about how AI might \ncause job displacement, but I'm also curious"
+    },
+    {
+      "start_timestamp": 1299.28,
+      "text": "I have a job that nobody would have thought we \ncould have, you know, totally a decade ago"
+    },
+    {
+      "start_timestamp": 1311.92,
+      "text": "What are the things that we could look ahead if \nwe're thinking about in 2035 that like graduating college student, if they still go to college at \nall, could very well be like leaving on a mission to explore the solar system on a spaceship in some \nkind of completely new exciting, super well- paid, super interesting job and feeling so bad for you \nand I that like we had to do this kind of like really boring old kind of work and everything \nis just better"
+    },
+    {
+      "start_timestamp": 1332.16,
+      "text": "Like I I 10 years feels very hard to imagine at this point because it's too \nfar"
+    },
+    {
+      "start_timestamp": 1338.48,
+      "text": "It's too far"
+    },
+    {
+      "start_timestamp": 1338.48,
+      "text": "If you compound the current rate of change for 10 more years, it's probably \nsomething we can't even time travel trips"
+    },
+    {
+      "start_timestamp": 1342.96,
+      "text": "I 10 like I mean I think now would be really hard \nto imagine 10 years ago"
+    },
+    {
+      "start_timestamp": 1348.64,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1348.64,
+      "text": "Uh but I think 10 years forward will be even much harder, much \nmore different"
+    },
+    {
+      "start_timestamp": 1354.96,
+      "text": "So let's make it 5 years"
+    },
+    {
+      "start_timestamp": 1354.96,
+      "text": "We're still going to 2030"
+    },
+    {
+      "start_timestamp": 1361.04,
+      "text": "I'm curious what you \nthink the pretty short-term impacts of this will be for for young people"
+    },
+    {
+      "start_timestamp": 1366.24,
+      "text": "I mean, these like \nhalf of entry- level jobs replaced by AI makes it sound like a very different world that they \nwould be entering than the one that I did"
+    },
+    {
+      "start_timestamp": 1373.04,
+      "text": "Um, I think it's totally true that some classes of \njobs will totally go away"
+    },
+    {
+      "start_timestamp": 1382.16,
+      "text": "This always happens and young people are the best at adapting to this"
+    },
+    {
+      "start_timestamp": 1386.48,
+      "text": "I'm more worried about what it means, not for the like 22-y old, but for the 62-y old that doesn't \nwant to go re retrain or reskill or whatever the politicians call it that no one actually wants \nbut politicians and most of the time"
+    },
+    {
+      "start_timestamp": 1397.44,
+      "text": "If I were 22 right now and graduating college, I would \nfeel like the luckiest kid in all of history"
+    },
+    {
+      "start_timestamp": 1407.68,
+      "text": " Why"
+    },
+    {
+      "start_timestamp": 1407.68,
+      "text": "Because there's never been a more amazing \ntime to go create something totally new, to go invent something, to start a company, whatever \nit is"
+    },
+    {
+      "start_timestamp": 1413.12,
+      "text": "I think it is probably possible now to start a company that is a oneperson company that \nwill go on to be worth like more than a billion dollars and more importantly than that deliver an \namazing product and service to the world and that that is like a crazy thing"
+    },
+    {
+      "start_timestamp": 1426.56,
+      "text": "You have access to \ntools that can let you do what used to take teams of hundreds and you just have to like you know \nlearn how to use these tools and come up with a great idea and it's it's like quite amazing"
+    },
+    {
+      "start_timestamp": 1438.48,
+      "text": "If \nwe take a step back, I think the most important thing that this audience could hear from you \non this optimistic show is in two parts"
+    },
+    {
+      "start_timestamp": 1445.68,
+      "text": "First, there's tactically, how are you actually trying \nto build the world's most powerful intelligence and what are the rate limiting factors to doing \nthat"
+    },
+    {
+      "start_timestamp": 1460.56,
+      "text": "And then philosophically, how are you and others working on building that technology in \na way that really helps and not hurts people"
+    },
+    {
+      "start_timestamp": 1470.8,
+      "text": " So just taking the tactical part right now"
+    },
+    {
+      "start_timestamp": 1470.8,
+      "text": "My understanding is that there are three big categories that have been limiting factors for \nAI"
+    },
+    {
+      "start_timestamp": 1477.2,
+      "text": "The first is compute, the second is data and the third is algorithmic design"
+    },
+    {
+      "start_timestamp": 1483.28,
+      "text": "How do you think \nabout each of those three categories right now"
+    },
+    {
+      "start_timestamp": 1489.44,
+      "text": "And if you were to help someone understand \nthe next headlines that they might see, how would you help them make sense of all this"
+    },
+    {
+      "start_timestamp": 1494.4,
+      "text": "I I would say there's a fourth too which is uh figuring out the products to build like techn like \nscientific progress on its own not put into the hands of people is of limited utility and doesn't \nsort of co-evolve with society in the same way but if I could hit all four of those um so on \nthe compute side yeah this is like the biggest infrastructure project certainly that I've ever \nseen possibly it will become the I think it will maybe already is the biggest and most expensive \none in human history but the the whole supply chain from making the chips and the memory and \nthe networking gear, racking them up in servers, doing, you know, a giant construction project to \nbuild like a mega mega data center, putting the, you know, finding a way to get the energy, which \nis often a limiting factor piece of this and all the other components together"
+    },
+    {
+      "start_timestamp": 1544.64,
+      "text": "This is hugely \ncomplex and expensive"
+    },
+    {
+      "start_timestamp": 1544.64,
+      "text": "And we are we're still doing this in like a sort of bespoke one-off way \nalthough it's getting better"
+    },
+    {
+      "start_timestamp": 1549.52,
+      "text": "Like eventually we will just design a whole kind of like mega factory \nthat takes you know I mean spiritually it will be melting sand on one end and putting out fully \nbuilt AI compute on the other but we are a long way to go from that and it's a it's an enormously \ncomplex and expensive process"
+    },
+    {
+      "start_timestamp": 1570.4,
+      "text": "uh we are putting a huge amount of work into building out as much \ncompute as we can and to do it fast and you know it's going to be like sad because GP5 is going \nto launch and there's going to be another big spike in demand and we're not going to be able \nto serve it and it's going to be like those early GPD4 days and the world just wants much more AI \nthan we can currently deliver and building more compute is an important part of doing that"
+    },
+    {
+      "start_timestamp": 1599.6,
+      "text": "That's actually this is what I expect to turn the majority of my attention to is how we build \ncompute at much greater scales"
+    },
+    {
+      "start_timestamp": 1603.76,
+      "text": "Uh so how we go from millions to tens of millions and hundreds of \nmillions and eventually hopefully billions of GPUs that are sort of in service of what people want \nto do with this"
+    },
+    {
+      "start_timestamp": 1616.32,
+      "text": "When you're thinking about it, what are the big challenges here in this category \nthat you're going to be thinking about"
+    },
+    {
+      "start_timestamp": 1620.0,
+      "text": "We're currently most limited by energy"
+    },
+    {
+      "start_timestamp": 1624.24,
+      "text": "um you know like \nif you're gonna you want to run a gigawatt scale data center it's like a gigawatt how hard can that \nbe to find it's really hard to find a gigawatt of power available in short term we're also very much \nlimited by the processing chips and the memory chips uh how you package these all together how \nyou build the racks and then there's like a list of other things that are you know there's like \npermits there's construction work uh but but again the goal here will be to really automate \nthis once we get some of those robots built, they can help us automate it even more"
+    },
+    {
+      "start_timestamp": 1657.28,
+      "text": "But just, \nyou know, like a world where you can basically pour in money and get out a pre-built data center"
+    },
+    {
+      "start_timestamp": 1661.2,
+      "text": "Uh so that'll be that'll be a huge unlock if we can get it to work"
+    },
+    {
+      "start_timestamp": 1668.0,
+      "text": "Second category, data"
+    },
+    {
+      "start_timestamp": 1668.0,
+      "text": "Yeah, \nthese models have gotten so smart"
+    },
+    {
+      "start_timestamp": 1668.0,
+      "text": "There was a time when we could just feed it another physics \ntextbook and got a little bit smarter at physics, but now like honestly GBT5 understands \neverything in a physics textbook pretty well"
+    },
+    {
+      "start_timestamp": 1684.48,
+      "text": " We're excited about synthetic data"
+    },
+    {
+      "start_timestamp": 1684.48,
+      "text": "We're very \nexcited about our users helping us create harder and harder tasks and environments to go off and \nhave the system solve"
+    },
+    {
+      "start_timestamp": 1690.0,
+      "text": "But uh I think we're data will always be important, but we're entering a \nrealm where the models need to learn things that don't exist in any data set yet"
+    },
+    {
+      "start_timestamp": 1704.4,
+      "text": "They have to \ngo discover new things"
+    },
+    {
+      "start_timestamp": 1704.4,
+      "text": "So that's like a crazy new How do you teach a model to discover new \nthings"
+    },
+    {
+      "start_timestamp": 1707.92,
+      "text": "Well, humans can do it"
+    },
+    {
+      "start_timestamp": 1707.92,
+      "text": "like we can go off and come up with hypotheses and test them \nand get experimental results and update on what we learn"
+    },
+    {
+      "start_timestamp": 1716.8,
+      "text": "So probably the same kind of way"
+    },
+    {
+      "start_timestamp": 1716.8,
+      "text": "And then \nthere's algorithmic design"
+    },
+    {
+      "start_timestamp": 1716.8,
+      "text": "Yeah, we've made huge progress on algorithmic design"
+    },
+    {
+      "start_timestamp": 1722.16,
+      "text": "Uh the thing that \nthe thing that I think open does best in the world is we have built this culture of repeated and big \nalgorithmic research gains"
+    },
+    {
+      "start_timestamp": 1727.6,
+      "text": "So we kind of you know figured out the what became the GPT paradigm"
+    },
+    {
+      "start_timestamp": 1735.36,
+      "text": "We \nfigured out became the reasoning paradigm"
+    },
+    {
+      "start_timestamp": 1735.36,
+      "text": "We're working on some new ones now"
+    },
+    {
+      "start_timestamp": 1740.56,
+      "text": "Um, but it is very \nexciting to me to think that there are still many more orders of magnitudes of algorithmic \ngains ahead of us"
+    },
+    {
+      "start_timestamp": 1746.24,
+      "text": "We we just yesterday uh released a model called GPOSS, open source \nmodel"
+    },
+    {
+      "start_timestamp": 1751.28,
+      "text": "It's a model that is as smart as 04 Mini, which is a very smart model that runs locally on \na laptop"
+    },
+    {
+      "start_timestamp": 1757.52,
+      "text": "And this blows my mind"
+    },
+    {
+      "start_timestamp": 1757.52,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1757.52,
+      "text": "Like if you had asked me a few years ago when we'd have \na model of that intelligence running on a laptop, I would have said many many years in the future"
+    },
+    {
+      "start_timestamp": 1769.84,
+      "text": "But then we we found some algorithmic gains um particularly around reasoning but also some \nother things that let us do a a tiny model that can do this amazing thing"
+    },
+    {
+      "start_timestamp": 1781.6,
+      "text": "And you know those are \nthose are the most fun things"
+    },
+    {
+      "start_timestamp": 1781.6,
+      "text": "That's like kind of the coolest part of the job"
+    },
+    {
+      "start_timestamp": 1786.88,
+      "text": "I can see you really \nenjoying thinking about this"
+    },
+    {
+      "start_timestamp": 1786.88,
+      "text": "I'm curious for people who don't quite know what you're talking \nabout, who aren't familiar with how an algorithmic design would lead to a better experience that they \nactually use"
+    },
+    {
+      "start_timestamp": 1797.6,
+      "text": "Could you summarize the state of things right now"
+    },
+    {
+      "start_timestamp": 1803.12,
+      "text": "Like what what is it that you're \nthinking about when you're thinking about how fun this problem is"
+    },
+    {
+      "start_timestamp": 1806.8,
+      "text": "Let me start back in history \nand then I'll get to some things for today"
+    },
+    {
+      "start_timestamp": 1806.8,
+      "text": "So, GPT1 was an idea at the time that was quite \nmocked by a lot of experts in the field, which was can we train a model to play a little \ngame, which is show it a bunch of words and have it guess the one that comes next in the sequence"
+    },
+    {
+      "start_timestamp": 1825.44,
+      "text": "That's called unsupervised learning"
+    },
+    {
+      "start_timestamp": 1825.44,
+      "text": "There's not you're not really saying like this is a cat, \nthis is a dog"
+    },
+    {
+      "start_timestamp": 1829.2,
+      "text": "You're saying here's some words, guess the next one"
+    },
+    {
+      "start_timestamp": 1832.24,
+      "text": "And the fact that that can \ngo learn these very complicated concepts that can go learn all the stuff about physics and math \nand programming and keep predicting the word that comes next and next and next and next seemed \nludicrous, magical, unlikely to work"
+    },
+    {
+      "start_timestamp": 1846.4,
+      "text": "Like how was that all going to get encoded"
+    },
+    {
+      "start_timestamp": 1853.28,
+      "text": "And yet humans \ndo it"
+    },
+    {
+      "start_timestamp": 1853.28,
+      "text": "you know, babies start hearing language and figure out what it means kind of largely uh or at \nleast to some significant degree on their own"
+    },
+    {
+      "start_timestamp": 1858.48,
+      "text": "And and so we did it and then we also realized that if \nwe scaled it up, it got better and better, but we had to scale over many many orders of magnitude"
+    },
+    {
+      "start_timestamp": 1874.08,
+      "text": "So it wasn't that good in the GPT1 day"
+    },
+    {
+      "start_timestamp": 1874.08,
+      "text": "It wasn't good at all in the GPT1 days"
+    },
+    {
+      "start_timestamp": 1878.48,
+      "text": "And a lot of experts \nin the field said, \"Oh, this is ridiculous"
+    },
+    {
+      "start_timestamp": 1878.48,
+      "text": "It's never going to work"
+    },
+    {
+      "start_timestamp": 1883.12,
+      "text": "It's not going to be robust"
+    },
+    {
+      "start_timestamp": 1883.12,
+      "text": "\" \nBut we had these things called scaling laws"
+    },
+    {
+      "start_timestamp": 1883.12,
+      "text": "And we said, \"Okay, so this gets predictably better as \nwe increase compute, memory, data, whatever"
+    },
+    {
+      "start_timestamp": 1886.64,
+      "text": "And we can we can decide we can use those predictions \nto make decisions about how to scale this up and do it and get great results"
+    },
+    {
+      "start_timestamp": 1899.12,
+      "text": "\" And that has worked \nover Yeah"
+    },
+    {
+      "start_timestamp": 1899.12,
+      "text": "a crazy number of orders of magnitude"
+    },
+    {
+      "start_timestamp": 1907.28,
+      "text": " And it was so not obvious at the time"
+    },
+    {
+      "start_timestamp": 1907.28,
+      "text": "like \nthat was that was I think the the reason the world was so surprised is that that seemed like \nsuch an unlikely finding"
+    },
+    {
+      "start_timestamp": 1910.88,
+      "text": "Another one was that we could use these language models with reinforcement \nlearning where we're saying this is good, this is bad to teach it how to reason"
+    },
+    {
+      "start_timestamp": 1920.96,
+      "text": "And this led to the \n01 and 03 and now the GBT5 progress"
+    },
+    {
+      "start_timestamp": 1920.96,
+      "text": "And that that was another thing that felt like uh if it works \nit's really great but like no way this is going to work"
+    },
+    {
+      "start_timestamp": 1935.76,
+      "text": "It's too simple"
+    },
+    {
+      "start_timestamp": 1935.76,
+      "text": "And now we're on to new \nthings"
+    },
+    {
+      "start_timestamp": 1935.76,
+      "text": "We've figured out how to make much better video models"
+    },
+    {
+      "start_timestamp": 1941.68,
+      "text": "We are we are discovering new ways \nto use new kinds of data and environment to kind of scale that up as well"
+    },
+    {
+      "start_timestamp": 1948.88,
+      "text": "Um and I think again \nyou know 5 10 years out that's too hard to say in this field but the next couple of years we have \nvery smooth very strong scaling in front of us"
+    },
+    {
+      "start_timestamp": 1961.6,
+      "text": "I think it has become a sort of public narrative \nthat we are on this smooth path from one to two to three to four to five to more"
+    },
+    {
+      "start_timestamp": 1967.92,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 1967.92,
+      "text": "But it also \nis true behind the scenes that it's a it's not linear like that"
+    },
+    {
+      "start_timestamp": 1975.04,
+      "text": "It's messier"
+    },
+    {
+      "start_timestamp": 1975.04,
+      "text": "Tell us a little \nbit about the mess before GPT5"
+    },
+    {
+      "start_timestamp": 1975.04,
+      "text": "What was what were the interesting problems that you needed to solve"
+    },
+    {
+      "start_timestamp": 1982.72,
+      "text": "Um, we did a model called Orion that we released as GPT 4"
+    },
+    {
+      "start_timestamp": 1988.96,
+      "text": "5"
+    },
+    {
+      "start_timestamp": 1988.96,
+      "text": "And we had we did too big of a \nmodel"
+    },
+    {
+      "start_timestamp": 1988.96,
+      "text": "It was just it was it's a very cool model, but it's unwieldly to use"
+    },
+    {
+      "start_timestamp": 1997.04,
+      "text": "And we realized that \nfor kind of some of the research we need to do on top of a model, we need a different shape"
+    },
+    {
+      "start_timestamp": 2000.8,
+      "text": "So we \nwe followed one scaling law that kept being good without without really internalizing"
+    },
+    {
+      "start_timestamp": 2006.8,
+      "text": "There was \na new even steeper scaling law that we got better returns for compute on, which was this reasoning \nthing"
+    },
+    {
+      "start_timestamp": 2010.88,
+      "text": "So that was like one alley we went down and turned around, but that's fine"
+    },
+    {
+      "start_timestamp": 2015.76,
+      "text": "That's part of \nresearch"
+    },
+    {
+      "start_timestamp": 2015.76,
+      "text": "Um, we had some problems with the way we think about our data sets as these models like \nreally have to get get this big and um, you know, learn from this much data"
+    },
+    {
+      "start_timestamp": 2025.84,
+      "text": "So So yeah, I think \nlike in the in the middle of it in the day-to-day, you kind of you make a lot of U-turns as \nyou try things or you have an architecture idea that doesn't work, but the the aggregate the \nsummation of all the squiggles has been remarkably smooth on the exponential"
+    },
+    {
+      "start_timestamp": 2043.28,
+      "text": "One of the \nthings I always find interesting is that by the time I'm sitting here interviewing \nyou about the thing that you just put out, you're thinking about Exactly"
+    },
+    {
+      "start_timestamp": 2052.16,
+      "text": "What are the things \nthat you can share that are at least the problems that you're thinking about that I would be \ninterviewing you about in a year if I came back"
+    },
+    {
+      "start_timestamp": 2070.16,
+      "text": "I mean, possibly you'll be asking me like, \nwhat does it mean that this thing can go discover new science"
+    },
+    {
+      "start_timestamp": 2074.16,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 2074.16,
+      "text": "What how how \nis the world supposed to think about GPT6 discovering new science"
+    },
+    {
+      "start_timestamp": 2080.16,
+      "text": "Now, maybe \nnot like maybe we don't deliver that, but it feels within grasp"
+    },
+    {
+      "start_timestamp": 2083.28,
+      "text": "If you did, what \nwould you say"
+    },
+    {
+      "start_timestamp": 2083.28,
+      "text": "What would your what would the implications of that kind of achievement \nbe"
+    },
+    {
+      "start_timestamp": 2089.76,
+      "text": "Imagine you do succeed"
+    },
+    {
+      "start_timestamp": 2089.76,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 2089.76,
+      "text": "I mean, I think the great parts will be great"
+    },
+    {
+      "start_timestamp": 2094.96,
+      "text": "the bad \nparts will be scary and the bizarre parts will be like bizarre on the first day and then we'll \nget used to them really fast"
+    },
+    {
+      "start_timestamp": 2098.32,
+      "text": "So we'll be like, \"Oh, it's incredible that this is like being \nused to cure disease and be like, oh, it's extremely scary that models like this are being \nused to like create new biocurity threats"
+    },
+    {
+      "start_timestamp": 2107.92,
+      "text": "\" And then we'll also be like, man, it's really weird \nto like live through watching the world speed up so much and you know the economy grows so fast \nand the like it will feel like vertigo inducing uh the sort of the rate of change and then like \nhappens with everything else the remarkable ability of of people of humanity to adapt to kind \nof like any amount of change"
+    },
+    {
+      "start_timestamp": 2137.04,
+      "text": "we'll just be like, \"Okay, you know, this is like this is it"
+    },
+    {
+      "start_timestamp": 2142.56,
+      "text": "\" Um, a \nkid born today will never be smarter than AI ever"
+    },
+    {
+      "start_timestamp": 2151.68,
+      "text": "And a kid born today, by the time that kid like \nkind of understands the way the world works, will just always be used to an incredibly fast rate of \nthings improving and discovering new science"
+    },
+    {
+      "start_timestamp": 2157.44,
+      "text": "They will just they will never know any other world"
+    },
+    {
+      "start_timestamp": 2163.6,
+      "text": "It \nwill seem totally natural"
+    },
+    {
+      "start_timestamp": 2163.6,
+      "text": "will seem unthinkable and stone age like that we used to use computers \nor phones or any kind of technology that was not way smarter than we were"
+    },
+    {
+      "start_timestamp": 2173.28,
+      "text": "You know, we will think \nlike how bad those people of the 2020s had it"
+    },
+    {
+      "start_timestamp": 2173.28,
+      "text": "I'm thinking about having kids"
+    },
+    {
+      "start_timestamp": 2179.28,
+      "text": "You should"
+    },
+    {
+      "start_timestamp": 2179.28,
+      "text": "It's the \nbest thing ever"
+    },
+    {
+      "start_timestamp": 2179.28,
+      "text": "I know you just had your first kid"
+    },
+    {
+      "start_timestamp": 2183.2,
+      "text": "How does what you just said affect how I \nshould think about parenting a kid in that world"
+    },
+    {
+      "start_timestamp": 2195.36,
+      "text": " What advice would you give me"
+    },
+    {
+      "start_timestamp": 2195.36,
+      "text": "Probably nothing \ndifferent than the way you've been parenting kids for tens of thousands of years"
+    },
+    {
+      "start_timestamp": 2199.52,
+      "text": "Like love your \nkids, show them the world, like support them in whatever they want to do and teach them like how \nto be a good person"
+    },
+    {
+      "start_timestamp": 2204.4,
+      "text": "And that probably is what's going to matter"
+    },
+    {
+      "start_timestamp": 2209.92,
+      "text": "It sounds a little bit like \nsome of the you know you've said a couple of things like this that that you know you might not \ngo to college you might there there are a couple of things that you've said so far that feed into \nthis I think and it sounds like what you're saying is there will be more optionality for them in a \nin a world that you envision and therefore they will have more more ability to say I want to build \nthis here's the superpowered tool that will help me do that or yeah like I want my kid to think \nI had a terrible constrained life and that he has this incredible infinite canvas of stuff to \ndo that that that is like the way of the world"
+    },
+    {
+      "start_timestamp": 2254.72,
+      "text": " We've said that uh 2035 is a little bit too far in \nthe future to think about"
+    },
+    {
+      "start_timestamp": 2254.72,
+      "text": "So maybe this this was going to be a jump to 2040 but maybe it will keep \nit shorter than that"
+    },
+    {
+      "start_timestamp": 2260.72,
+      "text": "When I think about the area where AI could have for both our kids and us the \nbiggest genuinely positive impact on all of us, it's health"
+    },
+    {
+      "start_timestamp": 2271.84,
+      "text": "So if we are in pick your year, call \nit 2035 and I'm sitting here and I'm interviewing the dean of Stanford medicine, what do you hope \nthat he's telling me AI is doing for our health in 2035"
+    },
+    {
+      "start_timestamp": 2285.92,
+      "text": "Start with 2025"
+    },
+    {
+      "start_timestamp": 2285.92,
+      "text": "Okay"
+    },
+    {
+      "start_timestamp": 2285.92,
+      "text": "Um yeah, please"
+    },
+    {
+      "start_timestamp": 2285.92,
+      "text": "One of the things we are most proud of with GPT5 is how much better it's gotten at health advice"
+    },
+    {
+      "start_timestamp": 2294.16,
+      "text": "Um, people have used the GPT4 models a lot for health advice"
+    },
+    {
+      "start_timestamp": 2301.68,
+      "text": "And you know, I'm sure you've seen \nsome of these things on the internet where people are like, I had this life-threatening disease \nand no doctor could figure it out and I like put my symptoms and a blood test into CHBT"
+    },
+    {
+      "start_timestamp": 2311.28,
+      "text": "It \ntold me exactly the rare thing I had"
+    },
+    {
+      "start_timestamp": 2311.28,
+      "text": "I went to a doctor"
+    },
+    {
+      "start_timestamp": 2315.76,
+      "text": "I took a pill"
+    },
+    {
+      "start_timestamp": 2315.76,
+      "text": "I'm cured"
+    },
+    {
+      "start_timestamp": 2315.76,
+      "text": "Like that's \namazing"
+    },
+    {
+      "start_timestamp": 2315.76,
+      "text": "obviously and a huge fraction of ChatGpt queries are health related"
+    },
+    {
+      "start_timestamp": 2323.04,
+      "text": "So we wanted to get \nreally good at this and we invested a lot in GPT5 is significantly better at healthcare related \nqueries"
+    },
+    {
+      "start_timestamp": 2327.12,
+      "text": "What does better mean here"
+    },
+    {
+      "start_timestamp": 2327.12,
+      "text": "It gives you a better answer just more accurate more accurate \nhallucinates less uh more likely to like tell you what you actually have what you actually should \ndo"
+    },
+    {
+      "start_timestamp": 2338.96,
+      "text": "Um, yeah, and better healthcare is wonderful, but obviously what people actually want \nis to just not have disease"
+    },
+    {
+      "start_timestamp": 2346.24,
+      "text": "And by 2035, I think we will be able to use these tools to \ncure a significant number or at least treat a significant number of diseases that currently \nplague us"
+    },
+    {
+      "start_timestamp": 2359.92,
+      "text": "I think that'll be one of the most viscerally felt benefits of of AI"
+    },
+    {
+      "start_timestamp": 2365.76,
+      "text": "People talk a \nlot about how AI will revolutionize healthcare, but I'm curious to go one turn deeper on \nspecifically what you're imagining"
+    },
+    {
+      "start_timestamp": 2373.2,
+      "text": "Like, is it that these AI systems could have helped \nus see GLP-1s earlier, this medication that has been around for a long time, but we didn't know \nabout this other effect"
+    },
+    {
+      "start_timestamp": 2384.64,
+      "text": "Is it that, you know, alpha fold and protein folding is helping create \nnew medicines"
+    },
+    {
+      "start_timestamp": 2388.56,
+      "text": "I would like to be able to ask GBT 8 to go cure a particular cancer and I would like \nGPT8 to go off and think and then say uh okay I read everything I could find"
+    },
+    {
+      "start_timestamp": 2404.0,
+      "text": "I have these ideas"
+    },
+    {
+      "start_timestamp": 2404.0,
+      "text": "I need you to uh go get a lab technician to run these nine experiments and tell me what you find \nfor each of them"
+    },
+    {
+      "start_timestamp": 2409.12,
+      "text": "And you know wait 2 months for the cells to do their thing"
+    },
+    {
+      "start_timestamp": 2413.68,
+      "text": "Send the results back \nto GBT8"
+    },
+    {
+      "start_timestamp": 2413.68,
+      "text": "Say I tried it"
+    },
+    {
+      "start_timestamp": 2413.68,
+      "text": "Here you go"
+    },
+    {
+      "start_timestamp": 2413.68,
+      "text": "Think think"
+    },
+    {
+      "start_timestamp": 2419.04,
+      "text": " Say okay I just need one more experiment"
+    },
+    {
+      "start_timestamp": 2419.04,
+      "text": "That was \na surprise"
+    },
+    {
+      "start_timestamp": 2419.04,
+      "text": "Run one more experiment"
+    },
+    {
+      "start_timestamp": 2419.04,
+      "text": "Give it back"
+    },
+    {
+      "start_timestamp": 2424.0,
+      "text": " GPT says, \"Okay, go synthesize this molecule and \ntry, you know, mouse studies or whatever"
+    },
+    {
+      "start_timestamp": 2424.0,
+      "text": "\" Okay, that was good"
+    },
+    {
+      "start_timestamp": 2430.16,
+      "text": "Like, try human studies"
+    },
+    {
+      "start_timestamp": 2430.16,
+      "text": "Okay, \ngreat"
+    },
+    {
+      "start_timestamp": 2430.16,
+      "text": "It worked"
+    },
+    {
+      "start_timestamp": 2430.16,
+      "text": "Um, here's how to like run it through the FDA"
+    },
+    {
+      "start_timestamp": 2433.84,
+      "text": "I think anyone with a loved \none who's died of cancer would also really like that"
+    },
+    {
+      "start_timestamp": 2439.28,
+      "text": "Okay, we're going to jump again"
+    },
+    {
+      "start_timestamp": 2439.28,
+      "text": "Okay"
+    },
+    {
+      "start_timestamp": 2439.28,
+      "text": "I was \ngoing to say 2050, but again, all of my timelines are getting much, much shorter"
+    },
+    {
+      "start_timestamp": 2444.56,
+      "text": "But I It does \nfeel like the world's going very fast now"
+    },
+    {
+      "start_timestamp": 2444.56,
+      "text": "It does"
+    },
+    {
+      "start_timestamp": 2448.8,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 2448.8,
+      "text": "And when I talk to other leaders in \nAI, one of the things that they refer to is the industrial revolution"
+    },
+    {
+      "start_timestamp": 2456.4,
+      "text": "They say, \"I chose 2050 \nbecause I've heard people talk about how by then the change that we will have gone through will \nbe like the industrial revolution, but quote 10 times bigger and 10 times faster"
+    },
+    {
+      "start_timestamp": 2466.16,
+      "text": "\" The industrial \nrevolution gave us modern medicine and sanitation and transportation and mass production and all all \nof the conveniences that we now take for granted"
+    },
+    {
+      "start_timestamp": 2477.12,
+      "text": " It also was incredibly difficult for a lot of \npeople for about 100 years"
+    },
+    {
+      "start_timestamp": 2477.12,
+      "text": "If this is going to be 10 times bigger and 10 times faster if we keep \nreducing the timelines that we're talking about here, even in this conversation, what does that \nactually feel like for most people"
+    },
+    {
+      "start_timestamp": 2486.88,
+      "text": "And I think what I'm trying to get at is if this all goes the \nway you hope, who still gets hurt in the meantime"
+    },
+    {
+      "start_timestamp": 2502.88,
+      "text": " I don't I don't really know what this is going \nto feel like to live through"
+    },
+    {
+      "start_timestamp": 2502.88,
+      "text": "Um I think we're in uncharted waters here"
+    },
+    {
+      "start_timestamp": 2509.68,
+      "text": "Uh I do believe in \nlike human adaptability and sort of infinite creativity and desire for stuff and I think \nwe always do figure out new things to do but the transition period if this happens as fast \nas it might and I don't think it will happen as fast as like some of my colleagues say the \ntechnology will but society has like a lot of inertia"
+    },
+    {
+      "start_timestamp": 2530.08,
+      "text": "Mhm"
+    },
+    {
+      "start_timestamp": 2530.08,
+      "text": "people adapt their way of living"
+    },
+    {
+      "start_timestamp": 2530.08,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 2530.08,
+      "text": "Surprisingly slowly"
+    },
+    {
+      "start_timestamp": 2530.08,
+      "text": "There are to classes of jobs that are going to totally go away and \nthere will be many classes of jobs that change significantly and there'll be the new things in \nthe same way that your job didn't exist some time ago"
+    },
+    {
+      "start_timestamp": 2545.76,
+      "text": "Neither did mine"
+    },
+    {
+      "start_timestamp": 2545.76,
+      "text": "And in some sense, this \nhas been going on for a long time"
+    },
+    {
+      "start_timestamp": 2545.76,
+      "text": "And you know, it's it's still disruptive to individuals, but \nsociety has gotten has proven quite resilient to this"
+    },
+    {
+      "start_timestamp": 2557.44,
+      "text": "And then in some other sense like we \nhave no idea how far or fast this could go"
+    },
+    {
+      "start_timestamp": 2564.8,
+      "text": "And thus I think we need an unusual degree \nof humility and openness to considering new solutions that would have seemed way \nout of the Overton window not too long ago"
+    },
+    {
+      "start_timestamp": 2579.36,
+      "text": "I'd like to talk about what some of those could \nbe because I'm not a historian by any means, but the first industrial revolution, my understanding \nis led to a lot of public health implementations because public health got so bad"
+    },
+    {
+      "start_timestamp": 2593.2,
+      "text": "Led to modern \nsanitation because public health got so bad"
+    },
+    {
+      "start_timestamp": 2597.44,
+      "text": " The second industrial revolution led to workforce \nprotections because labor conditions got so bad"
+    },
+    {
+      "start_timestamp": 2603.84,
+      "text": " Every big leap creates a mess and that mess needs \nto be cleaned up and and we've done that"
+    },
+    {
+      "start_timestamp": 2603.84,
+      "text": "And I'm curious, this is going to be it sounds like \nan we're in the middle of this enormously"
+    },
+    {
+      "start_timestamp": 2611.44,
+      "text": "How specific can we get as early as possible about \nwhat that mess can be"
+    },
+    {
+      "start_timestamp": 2616.88,
+      "text": "What what are the public interventions that we could do ahead of time to \nreduce the mess that we think that we're headed for"
+    },
+    {
+      "start_timestamp": 2628.64,
+      "text": "I would again c I'm going to speculate for \nfun but caveed by I'm not an economist even uh much less someone who can see the future"
+    },
+    {
+      "start_timestamp": 2639.36,
+      "text": "I I it \nseems to me like something fundamental about the social contract may have to change"
+    },
+    {
+      "start_timestamp": 2646.24,
+      "text": "It may not"
+    },
+    {
+      "start_timestamp": 2646.24,
+      "text": "It may it may be that like actually capitalism works as it's been working surprisingly well and \nlike demand supply balances do their thing and we all just figure out kind of new jobs and new \nways to transfer value to each other"
+    },
+    {
+      "start_timestamp": 2659.92,
+      "text": "But it seems to me likely that we will decide we need \nto think about how access to this maybe most important resource of the future gets shared"
+    },
+    {
+      "start_timestamp": 2674.16,
+      "text": "The best thing that it seems to me to do is to make AI compute as abundant and cheap as possible \nsuch that we're just like there's way too much and we run out of like good new ideas to really \nuse it for and it's just like anything you want is happening"
+    },
+    {
+      "start_timestamp": 2689.52,
+      "text": "Without that, I can see like quite \nliteral wars being fought over it"
+    },
+    {
+      "start_timestamp": 2689.52,
+      "text": "But, you know, new ideas about how we distribute access to AGI \ncompute, that seems like a really great direction, like a crazy but important thing to think about"
+    },
+    {
+      "start_timestamp": 2702.16,
+      "text": "One of the things that I find myself thinking about in this conversation is we often ascribe \nalmost full responsibility of the AI future that we've been talking about to the companies building \nAI, but we're the ones using it"
+    },
+    {
+      "start_timestamp": 2714.32,
+      "text": "We're the ones electing people that will regulate it"
+    },
+    {
+      "start_timestamp": 2719.12,
+      "text": "And so I'm \ncurious, this is not a question about specific, you know, federal regulation or anything like \nthat, although if you have an answer there, I'm curious"
+    },
+    {
+      "start_timestamp": 2728.8,
+      "text": "But what would you ask of the rest \nof us"
+    },
+    {
+      "start_timestamp": 2728.8,
+      "text": "What is the shared responsibility here"
+    },
+    {
+      "start_timestamp": 2736.0,
+      "text": " And how can we act in a way that would help make \nthe optimistic version of this more possible"
+    },
+    {
+      "start_timestamp": 2736.0,
+      "text": "My favorite historical example for the AI revolution \nis the transistor"
+    },
+    {
+      "start_timestamp": 2743.84,
+      "text": "It was this amazing piece of science that some science brilliant scientists \ndiscovered"
+    },
+    {
+      "start_timestamp": 2749.6,
+      "text": "It scaled incredibly like AI does and it made its way relatively quickly into \nevery many things that we use"
+    },
+    {
+      "start_timestamp": 2756.8,
+      "text": "um your computer, your phone, that camera, that light, whatever"
+    },
+    {
+      "start_timestamp": 2763.68,
+      "text": "And it was a it was a real unlock for the tech tree of humanity"
+    },
+    {
+      "start_timestamp": 2769.28,
+      "text": "And there were a period in time \nwhere probably everybody was really obsessed with the transistor companies, the semiconductors of, \nyou know, Silicon Valley back when it was Silicon Valley"
+    },
+    {
+      "start_timestamp": 2779.28,
+      "text": "But now you can maybe name a couple of \ncompanies that are transistor companies, but mostly you don't think about it"
+    },
+    {
+      "start_timestamp": 2784.32,
+      "text": "Mostly it's just \nseeped everywhere"
+    },
+    {
+      "start_timestamp": 2784.32,
+      "text": "in Silicon Valley is, you know, like probably someone graduating from college \nbarely remembers why it was called that in the first place"
+    },
+    {
+      "start_timestamp": 2794.24,
+      "text": "And you don't think that it was those \ntransistor companies that shaped society even though they did something important"
+    },
+    {
+      "start_timestamp": 2799.2,
+      "text": "You think \nabout what Apple did with the iPhone and then you think about what Tik Tok built on top of the \niPhone and you're like, \"All right, here's this long chain of all these people that nudged society \nin some way and what our governments did or didn't do and what the people using these technologies \ndid"
+    },
+    {
+      "start_timestamp": 2813.84,
+      "text": "\" And I think that's what will happen with AI"
+    },
+    {
+      "start_timestamp": 2819.76,
+      "text": " Like back, you know, kids born today, they they \nnever knew the world without AI"
+    },
+    {
+      "start_timestamp": 2819.76,
+      "text": "So they don't really think about it"
+    },
+    {
+      "start_timestamp": 2824.48,
+      "text": "It's just this thing that's \ngoing to be there in everything"
+    },
+    {
+      "start_timestamp": 2824.48,
+      "text": "and and they will think about like the companies that built on it \nand what they did with it and the kind of like political leaders the decisions they made that \nmaybe they wouldn't have been able to do without AI but they will still think about like what this \npresident or that president did and you know the role of the AI companies is all these companies \nand people and institutions before us built up this scaffolding we added our one layer on top and \nnow people get to stand on top of that and add one layer and the next and the next and many more And \nthat is the beauty of our society"
+    },
+    {
+      "start_timestamp": 2855.6,
+      "text": "We kind of all I I love this like idea that society \nis the super intelligence"
+    },
+    {
+      "start_timestamp": 2866.64,
+      "text": "Like no one person could do on their own, what they're \nable to do with all of the really hard work that society has done together to like give \nyou this amazing set of tools"
+    },
+    {
+      "start_timestamp": 2876.16,
+      "text": "And that's what I think it's going to feel like"
+    },
+    {
+      "start_timestamp": 2883.2,
+      "text": "It's \ngoing to be like, all right, you know, yeah, some nerds discovered this thing and that was \ngreat and you know, now everybody's doing all these amazing things with it"
+    },
+    {
+      "start_timestamp": 2890.24,
+      "text": "So maybe the ask \nto millions of people is build on it"
+    },
+    {
+      "start_timestamp": 2890.24,
+      "text": "Well, in my own life, that is the feel as like this important societal contract"
+    },
+    {
+      "start_timestamp": 2905.92,
+      "text": "All these people came before you"
+    },
+    {
+      "start_timestamp": 2905.92,
+      "text": "They worked incredibly hard"
+    },
+    {
+      "start_timestamp": 2911.36,
+      "text": "They like put their brick in \nthe path of human progress and you get to walk all the way down that path and you got to put one \nmore and somebody else does that and somebody else does that"
+    },
+    {
+      "start_timestamp": 2919.52,
+      "text": "This does feel I've done a couple \nof interviews with folks who have really made cataclysmic change"
+    },
+    {
+      "start_timestamp": 2925.36,
+      "text": "The one I'm thinking about \nright now is with uh crisper pioneer Jennifer Dana and it did feel like that was also what she was \nsaying in some way"
+    },
+    {
+      "start_timestamp": 2931.36,
+      "text": "She had discovered something that really might change the way that most people \nrelate to their health moving forward"
+    },
+    {
+      "start_timestamp": 2935.04,
+      "text": "And there will be a lot of people that will use what she \nhas done in ways that she might approve of or not approve of"
+    },
+    {
+      "start_timestamp": 2944.48,
+      "text": "And it was really interesting"
+    },
+    {
+      "start_timestamp": 2944.48,
+      "text": "I'm hearing some similar themes of like, man, I I hope that this I hope that the next person \ntakes the baton and runs with it well"
+    },
+    {
+      "start_timestamp": 2949.76,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 2957.12,
+      "text": " But that's been working for a long time"
+    },
+    {
+      "start_timestamp": 2957.12,
+      "text": "Not all \ngood, but mostly good"
+    },
+    {
+      "start_timestamp": 2957.12,
+      "text": "I think there's a there's a big difference between winning the race and \nbuilding the AI future that would be best for the most people"
+    },
+    {
+      "start_timestamp": 2968.64,
+      "text": "And I can imagine that it is easier \nmaybe more quantifiable sometimes to focus on the next way to win the race"
+    },
+    {
+      "start_timestamp": 2976.56,
+      "text": "And I'm curious when \nthose two things are at odds"
+    },
+    {
+      "start_timestamp": 2976.56,
+      "text": "What is an example of a decision that you've had to make that is \nbest for the world but not best for winning"
+    },
+    {
+      "start_timestamp": 2993.28,
+      "text": " I think there are a lot"
+    },
+    {
+      "start_timestamp": 2993.28,
+      "text": "So, one of the \nthings that we are most proud of is many people say that ChachiBt is their favorite \npiece of technology ever and that it's the one that they trust the most, rely on the \nmost, whatever"
+    },
+    {
+      "start_timestamp": 3002.48,
+      "text": "And this is a little bit of a ridiculous statement because AI is the thing \nthat hallucinates"
+    },
+    {
+      "start_timestamp": 3005.76,
+      "text": "AI has all of these problems, right"
+    },
+    {
+      "start_timestamp": 3009.44,
+      "text": "But we have screwed some things up along \nthe way, sometimes big time, but on the whole, I think as a user of Chachib, you get the feeling \nthat like it's trying to help you"
+    },
+    {
+      "start_timestamp": 3015.76,
+      "text": "It's trying to like help you accomplish whatever you ask"
+    },
+    {
+      "start_timestamp": 3021.2,
+      "text": "It's \nit's very aligned with you"
+    },
+    {
+      "start_timestamp": 3021.2,
+      "text": "It's not trying to get you to like, you know, use it all day"
+    },
+    {
+      "start_timestamp": 3025.12,
+      "text": "It's \nnot trying to like get you to buy something"
+    },
+    {
+      "start_timestamp": 3029.28,
+      "text": " It's trying to like kind of help you accomplish \nwhatever your goals are"
+    },
+    {
+      "start_timestamp": 3029.28,
+      "text": "And and that is that's like a very special relationship we have with our \nusers"
+    },
+    {
+      "start_timestamp": 3036.64,
+      "text": "We do not take it lightly"
+    },
+    {
+      "start_timestamp": 3036.64,
+      "text": "There's a lot of things we could do that would like grow \nfaster, that would get more time in chatbt uh that we don't do because we know that like \nour long-term incentive is to stay as aligned with our users as possible"
+    },
+    {
+      "start_timestamp": 3049.92,
+      "text": "And but there's a lot \nof short-term stuff we could do that would like really like juice growth or revenue or whatever \nand be very misaligned with that long-term goal"
+    },
+    {
+      "start_timestamp": 3062.24,
+      "text": " And I'm proud of the company and how little we \nget distracted by that"
+    },
+    {
+      "start_timestamp": 3062.24,
+      "text": "But sometimes we do get tempted"
+    },
+    {
+      "start_timestamp": 3067.12,
+      "text": "Are there specific examples that come \nto mind"
+    },
+    {
+      "start_timestamp": 3067.12,
+      "text": "Any like decisions that you've made"
+    },
+    {
+      "start_timestamp": 3067.12,
+      "text": "Um well, we haven't put a sex bot avatar in \nChbt yet"
+    },
+    {
+      "start_timestamp": 3075.52,
+      "text": "That does seem like it would get time spent"
+    },
+    {
+      "start_timestamp": 3080.48,
+      "text": "Apparently, it does"
+    },
+    {
+      "start_timestamp": 3080.48,
+      "text": "I'm gonna ask my next question"
+    },
+    {
+      "start_timestamp": 3080.48,
+      "text": "Um, it's been a really crazy few years"
+    },
+    {
+      "start_timestamp": 3087.52,
+      "text": "You know, it \nand somehow one of the things that keeps coming back is that it feels like we're in the first \ninning"
+    },
+    {
+      "start_timestamp": 3092.56,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 3092.56,
+      "text": "And one of the things that I would say we're out of the first inning"
+    },
+    {
+      "start_timestamp": 3098.24,
+      "text": "Out of the \nfirst inning, I would say second inning"
+    },
+    {
+      "start_timestamp": 3098.24,
+      "text": "I mean, you have GPT5 on your phone and it's like smarter \nthan experts in every field"
+    },
+    {
+      "start_timestamp": 3103.52,
+      "text": "That's got to be out of the first name"
+    },
+    {
+      "start_timestamp": 3108.24,
+      "text": "But maybe there are many \nmore to come"
+    },
+    {
+      "start_timestamp": 3108.24,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 3108.24,
+      "text": "And I'm curious, it seems like you're going to be someone who is leading the \nnext few"
+    },
+    {
+      "start_timestamp": 3114.8,
+      "text": "What is a way, what is a learning from inning one or two or a mistake that you made that \nyou feel will affect how you play in the next"
+    },
+    {
+      "start_timestamp": 3132.32,
+      "text": "I think the worst thing we've done in ChachiBT \nso far is uh we had this issue with sickency where the model was kind of being too flattering \nto users and for some users it was most users it was just annoying but for some users that had like \nfragile mental states it was encouraging delusions that was not the top risk we were worried about"
+    },
+    {
+      "start_timestamp": 3151.36,
+      "text": "It was not the thing we were testing for the most"
+    },
+    {
+      "start_timestamp": 3154.8,
+      "text": "was on our list, but the thing that actually \nbecame the safety failing of ChachiBT was not the one we were spending most of our time talking \nabout, which should be bioweapons or something like that"
+    },
+    {
+      "start_timestamp": 3165.92,
+      "text": "And I think it was a great reminder of \nwe now have a service that is so broadly used in some sense, society is co-evolving with it"
+    },
+    {
+      "start_timestamp": 3177.28,
+      "text": "And \nwhen we think about these changes and we think about the unknown unknowns, we have to operate in \na different way and have like a wider aperture to what we think about as our top risks"
+    },
+    {
+      "start_timestamp": 3188.64,
+      "text": "In a recent \ninterview with Theo Vaughn, you said something that I found really interesting"
+    },
+    {
+      "start_timestamp": 3194.16,
+      "text": "You said there \nare moments in the history of science where you have a group of scientists look at their creation \nand just say, \"What have we done"
+    },
+    {
+      "start_timestamp": 3198.8,
+      "text": "\" When have you felt that way"
+    },
+    {
+      "start_timestamp": 3205.52,
+      "text": "Most concerned about the creation \nthat you've built"
+    },
+    {
+      "start_timestamp": 3205.52,
+      "text": "Um and then my next question will be it's opposite"
+    },
+    {
+      "start_timestamp": 3210.96,
+      "text": "When have you felt most \nproud"
+    },
+    {
+      "start_timestamp": 3210.96,
+      "text": "I mean there have been these moments of awe where uh we just not like what have we done in \na bad way but like this thing is remarkable"
+    },
+    {
+      "start_timestamp": 3216.24,
+      "text": "Like I remember the first time we talked to like GPT4 \nwas like wow this is really like this is this is an amazing accomplishment of this group of people \nthat have been like pouring their life force into this for so long"
+    },
+    {
+      "start_timestamp": 3236.08,
+      "text": "on a what have we done moment"
+    },
+    {
+      "start_timestamp": 3236.08,
+      "text": "There was I was talking to a researcher recently"
+    },
+    {
+      "start_timestamp": 3246.64,
+      "text": "You know, there will probably come a time \nwhere our systems are I don't want to say sane, let's say emitting more words \nper day than all people do"
+    },
+    {
+      "start_timestamp": 3257.92,
+      "text": "Um, and you know already like our people are \nsending billions of messages a day to chatbt and getting responses that they rely on for work \nor their life or whatever the and you know like one researcher can make some small tweak to how \nChad GPT talks to you or talks to everybody and and that's just an enormous amount of power for \nlike one individual making a small tweak to the model personality"
+    },
+    {
+      "start_timestamp": 3283.6,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 3283.6,
+      "text": "like no no no person \nin history has been able to have billions of conversations a day and so you know somebody could \ndo something but but this is like just thinking about that really hit me of like this is like a \ncrazy amount of power for one piece of technology to have and like we got to and this happened to \nus so fast that we got to like think about what it means to make a personality change to the model \nat this kind of scale and uh yeah that was like a moment that hit me What was your next set of \nthoughts"
+    },
+    {
+      "start_timestamp": 3313.04,
+      "text": "I'm so curious how you think about this"
+    },
+    {
+      "start_timestamp": 3321.2,
+      "text": "Well, just because of like who that person was \nlike we we very we very much flipped into like what are the sort of like it it could have been \na very different conversation with somebody else"
+    },
+    {
+      "start_timestamp": 3331.76,
+      "text": " But in this case it was like what is a what do \na good set of procedures look like"
+    },
+    {
+      "start_timestamp": 3331.76,
+      "text": "How do we think about how we want to test something"
+    },
+    {
+      "start_timestamp": 3335.92,
+      "text": "How do \nwe think about how we want to communicate it"
+    },
+    {
+      "start_timestamp": 3335.92,
+      "text": "But with somebody else it could have gone in a like \nvery philosophical direction"
+    },
+    {
+      "start_timestamp": 3338.88,
+      "text": "And it could have gone in like a what kind of research do we like \nwant to do to go understand what these changes are going to make"
+    },
+    {
+      "start_timestamp": 3347.28,
+      "text": "Do we want to do it differently \nfor different people"
+    },
+    {
+      "start_timestamp": 3347.28,
+      "text": "So that it went that way but mostly just because of who I was talking to"
+    },
+    {
+      "start_timestamp": 3350.56,
+      "text": "To combine what you're saying now with your last answer, one of the things that I have heard \nabout GBC5 and I'm still playing with it is that it is supposed to be less effusively uh you \nknow less of a yes man"
+    },
+    {
+      "start_timestamp": 3361.44,
+      "text": "Two questions"
+    },
+    {
+      "start_timestamp": 3361.44,
+      "text": "What do you think are are the implications of that"
+    },
+    {
+      "start_timestamp": 3370.88,
+      "text": "It \nsounds like you are answering that a little bit, but also how do you actually guide it to \nbe less like that"
+    },
+    {
+      "start_timestamp": 3375.44,
+      "text": "Here is a heartbreaking thing"
+    },
+    {
+      "start_timestamp": 3382.0,
+      "text": "I think it is great that chatbt \nis less of a yes man and gives you more critical feedback"
+    },
+    {
+      "start_timestamp": 3385.6,
+      "text": "But as we've been making \nthose changes and talking to users about it, it's so sad to hear users say like, \"Please \ncan I have it back"
+    },
+    {
+      "start_timestamp": 3391.92,
+      "text": "I've never had anyone in my life be supportive of me"
+    },
+    {
+      "start_timestamp": 3396.24,
+      "text": "I never had a \nparent telling me I was doing a good job"
+    },
+    {
+      "start_timestamp": 3396.24,
+      "text": "\" Like I can get why this was bad for other people's \nmental health, but this was great for my mental health"
+    },
+    {
+      "start_timestamp": 3403.44,
+      "text": "Like I didn't realize how much I needed \nthis"
+    },
+    {
+      "start_timestamp": 3403.44,
+      "text": "It encouraged me to do this"
+    },
+    {
+      "start_timestamp": 3403.44,
+      "text": "It encouraged me to make this change in my life"
+    },
+    {
+      "start_timestamp": 3406.88,
+      "text": "Like it's \nnot all bad for chatbt to it turns out like be encouraging of you"
+    },
+    {
+      "start_timestamp": 3413.52,
+      "text": "Now the way we were doing \nit was bad, but turn it like something in that direction might have some value in it"
+    },
+    {
+      "start_timestamp": 3418.64,
+      "text": "How we do \nit, we we show the model examples of how we'd like it to respond in different cases and from that \nit learns the sort of the overall personality"
+    },
+    {
+      "start_timestamp": 3429.84,
+      "text": " What haven't I asked you that you're thinking \nabout a lot that you want people to know"
+    },
+    {
+      "start_timestamp": 3429.84,
+      "text": "I feel like we covered a lot of ground"
+    },
+    {
+      "start_timestamp": 3436.32,
+      "text": "Me, too"
+    },
+    {
+      "start_timestamp": 3436.32,
+      "text": "But \nI want to know if there's anything on your mind"
+    },
+    {
+      "start_timestamp": 3447.2,
+      "text": " I don't think so"
+    },
+    {
+      "start_timestamp": 3447.2,
+      "text": "One of the things that I haven't \ngotten to play with yet, but I'm curious about is GBT5 being much more in my life, meaning like \nin my Gmail and my calendar and my like I've been using GBT4 mostly as a isolated relationship \nwith it"
+    },
+    {
+      "start_timestamp": 3462.16,
+      "text": "Yeah"
+    },
+    {
+      "start_timestamp": 3462.16,
+      "text": "How would I expect my relationship to change with GBC 5"
+    },
+    {
+      "start_timestamp": 3469.68,
+      "text": "Exactly what you said"
+    },
+    {
+      "start_timestamp": 3469.68,
+      "text": "I think it'll just start to feel integrated in all of these ways"
+    },
+    {
+      "start_timestamp": 3475.68,
+      "text": "you'll connect it to your \ncalendar and your Gmail and it'll say like, \"Hey, do you want me to I noticed this thing"
+    },
+    {
+      "start_timestamp": 3478.96,
+      "text": "Do \nyou want me to do this thing for you over time, it'll start to feel way more proactive"
+    },
+    {
+      "start_timestamp": 3483.36,
+      "text": "Um, so \nmaybe you wake up in the morning and it says, \"Hey, this happened overnight"
+    },
+    {
+      "start_timestamp": 3488.24,
+      "text": "I noticed this \nchange on your calendar"
+    },
+    {
+      "start_timestamp": 3488.24,
+      "text": "I was thinking more about this question you asked me"
+    },
+    {
+      "start_timestamp": 3492.0,
+      "text": "I have this \nother idea"
+    },
+    {
+      "start_timestamp": 3492.0,
+      "text": "\" And then you know eventually we'll make some consumer devices and it'll sit here \nduring this interview and you know maybe it'll leave us alone during it but after it'll say that \nwas great but next time you should have asked Sam this or when you brought this up like you know \nhe kind of didn't give you a good answer so like you should really drill him on that and it'll just \nfeel like it kind of becomes more like this entity that is this companion with you throughout your \nday"
+    },
+    {
+      "start_timestamp": 3515.44,
+      "text": "We've talked about kids and college graduates and parents and all kinds of different people"
+    },
+    {
+      "start_timestamp": 3521.92,
+      "text": "If \nwe imagine a wide set of people listening to this, they've come to the end of this conversation"
+    },
+    {
+      "start_timestamp": 3527.04,
+      "text": "They \nare hopefully feeling like they maybe see visions of moments in the future a little bit better"
+    },
+    {
+      "start_timestamp": 3532.32,
+      "text": "What \nadvice would you give them about how to prepare"
+    },
+    {
+      "start_timestamp": 3539.12,
+      "text": " The number one piece of tactical advice is just \nuse the tools"
+    },
+    {
+      "start_timestamp": 3539.12,
+      "text": "Like the the number of people that I have the the most common question I get asked \nabout AI is like what should I how should I help my kids prepare for the world"
+    },
+    {
+      "start_timestamp": 3550.96,
+      "text": "What should I \ntell my kids"
+    },
+    {
+      "start_timestamp": 3550.96,
+      "text": "The second most question is like how do I invest in this AI world"
+    },
+    {
+      "start_timestamp": 3553.92,
+      "text": "But stick with \nthat first one"
+    },
+    {
+      "start_timestamp": 3553.92,
+      "text": "Um I am surprised how many people ask that and have never tried using Chachi PT \nfor anything other than like a better version of a Google search"
+    },
+    {
+      "start_timestamp": 3565.84,
+      "text": "And so the number one piece of \nadvice that I give is just try to like get fluent with the capability of the tools"
+    },
+    {
+      "start_timestamp": 3569.92,
+      "text": "figure out how \nto like use this in your life"
+    },
+    {
+      "start_timestamp": 3569.92,
+      "text": "Figure out what to do with it"
+    },
+    {
+      "start_timestamp": 3573.6,
+      "text": "And I think that's probably the most \nimportant piece of tactical advice"
+    },
+    {
+      "start_timestamp": 3573.6,
+      "text": "You know, go like meditate, learn how to be resilient and \ndeal with a lot of change"
+    },
+    {
+      "start_timestamp": 3578.4,
+      "text": "There's all that good stuff, too"
+    },
+    {
+      "start_timestamp": 3582.24,
+      "text": "But just using the tools really \nhelps"
+    },
+    {
+      "start_timestamp": 3582.24,
+      "text": "Okay"
+    },
+    {
+      "start_timestamp": 3582.24,
+      "text": "I have one more question that I wasn't planning to ask, but I just Great"
+    },
+    {
+      "start_timestamp": 3586.56,
+      "text": "In in doing all of this research beforehand, I spoke to a lot of different kinds of folks"
+    },
+    {
+      "start_timestamp": 3591.92,
+      "text": "I spoke to a lot of people that were building tools and using them"
+    },
+    {
+      "start_timestamp": 3596.88,
+      "text": "I spoke to a lot of \npeople that were actually in labs and and trying to build what we have defined as super \nintelligence"
+    },
+    {
+      "start_timestamp": 3602.48,
+      "text": "And it did seem like there were these two camps forming"
+    },
+    {
+      "start_timestamp": 3606.96,
+      "text": "There's a group of \npeople who are using the tools like you in this conversation and building tools for others \nsaying this is going to be a really useful future that we're all moving toward"
+    },
+    {
+      "start_timestamp": 3620.8,
+      "text": "Your life is \ngoing to be full of choice and we've talked about our my potential kids and and their futures"
+    },
+    {
+      "start_timestamp": 3625.84,
+      "text": "Then there's another camp of people that are building these tools that are saying it's going \nto kill us all"
+    },
+    {
+      "start_timestamp": 3629.92,
+      "text": "And I'm curious how that cultural disconnect has like what am I missing about \nthose two groups of people"
+    },
+    {
+      "start_timestamp": 3635.04,
+      "text": "It's so hard for me to like wrap my head around like there are you \nare totally right"
+    },
+    {
+      "start_timestamp": 3644.4,
+      "text": "There are people who say this is going to kill us all and yet they still are \nworking 100 hours a week to build it"
+    },
+    {
+      "start_timestamp": 3648.56,
+      "text": "Yes"
+    },
+    {
+      "start_timestamp": 3648.56,
+      "text": "And I I can't I can't really put myself in the headsp \nspace"
+    },
+    {
+      "start_timestamp": 3654.48,
+      "text": "If if that's what I really truly believed, I don't think I'd be trying to build it"
+    },
+    {
+      "start_timestamp": 3663.6,
+      "text": "One \nwould think, you know, maybe I would be like on a farm trying to like live out my last days"
+    },
+    {
+      "start_timestamp": 3667.76,
+      "text": "Maybe I would be trying to like advocate for it to be stopped"
+    },
+    {
+      "start_timestamp": 3671.92,
+      "text": "Maybe I would be trying to \nlike work more on safety, but I don't think I'd be trying to build it"
+    },
+    {
+      "start_timestamp": 3675.12,
+      "text": "So, I find myself just \nhaving a hard time empathizing with that mindset"
+    },
+    {
+      "start_timestamp": 3681.2,
+      "text": " I assume it's true"
+    },
+    {
+      "start_timestamp": 3681.2,
+      "text": "I assume it's in \ngood faith"
+    },
+    {
+      "start_timestamp": 3681.2,
+      "text": "I assume there's just like there's some psychological issue there I don't \nunderstand about how they make it all make sense, but it's very strange to me"
+    },
+    {
+      "start_timestamp": 3689.6,
+      "text": "Do you do you have an \nopinion"
+    },
+    {
+      "start_timestamp": 3689.6,
+      "text": "You know, because I I always do this"
+    },
+    {
+      "start_timestamp": 3689.6,
+      "text": "I ask for sort of a general future and then I try \nto press on specifics"
+    },
+    {
+      "start_timestamp": 3699.2,
+      "text": "And when you ask people for specifics on how it's going to kill us all, \nI mean, I don't think we need to get into this on an optimistic show, but you hear the same kinds \nof refrains"
+    },
+    {
+      "start_timestamp": 3709.36,
+      "text": "You think about, you know, something uh trying to accomplish a task and then over \naccomplishing that task"
+    },
+    {
+      "start_timestamp": 3714.96,
+      "text": "Um you hear about sort of I've heard you talk about a sort of general \num over reliance of sort of an understanding that the president is going to be a a AI and and \nmaybe that is an overreliance that we, you know, would need to think about"
+    },
+    {
+      "start_timestamp": 3731.68,
+      "text": "And you know, you you \nplay out these different scenarios, but then you ask someone why they're working on it, or you ask \nsomeone how how they think this will play out, and I just maybe I haven't spoken to enough people \nyet"
+    },
+    {
+      "start_timestamp": 3740.16,
+      "text": "Maybe I don't fully understand this this cultural conversation that's happening"
+    },
+    {
+      "start_timestamp": 3745.76,
+      "text": "Um or \nmaybe it really is someone who just says 99% of the time I think it's going to be incredibly good"
+    },
+    {
+      "start_timestamp": 3752.16,
+      "text": "1% of the time I think it might be a disaster trying to make the best world"
+    },
+    {
+      "start_timestamp": 3756.64,
+      "text": "That I can totally \nif you're like, hey, 99% chance incredible"
+    },
+    {
+      "start_timestamp": 3756.64,
+      "text": "1% chance the world gets wiped out"
+    },
+    {
+      "start_timestamp": 3761.52,
+      "text": "And I really want \nto work to maximize to move that 99 to 99"
+    },
+    {
+      "start_timestamp": 3761.52,
+      "text": "5"
+    },
+    {
+      "start_timestamp": 3761.52,
+      "text": "That I can totally understand"
+    },
+    {
+      "start_timestamp": 3767.76,
+      "text": "Yeah, that makes sense"
+    },
+    {
+      "start_timestamp": 3767.76,
+      "text": "I've been doing an interview series with some of the most important people influencing the future"
+    },
+    {
+      "start_timestamp": 3773.36,
+      "text": "Not knowing who the next person is going to be, but knowing that they will be building something \ntotally fascinating in the future that we've just described"
+    },
+    {
+      "start_timestamp": 3783.2,
+      "text": "Is there a question that you'd advise \nme to ask the next person not knowing who it is"
+    },
+    {
+      "start_timestamp": 3790.08,
+      "text": "I'm always interested in the like without knowing \nanything about the I'm always interested in the like of all of the things you could spend \nyour time and energy on"
+    },
+    {
+      "start_timestamp": 3793.52,
+      "text": "Why did you pick this one"
+    },
+    {
+      "start_timestamp": 3798.32,
+      "text": "How did you get started"
+    },
+    {
+      "start_timestamp": 3798.32,
+      "text": "Like what \ndid you see about this when before everybody else like most people doing something interesting \nsort of saw it earlier before it was consensus"
+    },
+    {
+      "start_timestamp": 3806.48,
+      "text": " Yeah"
+    },
+    {
+      "start_timestamp": 3806.48,
+      "text": "Like how did how did you get here and \nwhy this"
+    },
+    {
+      "start_timestamp": 3806.48,
+      "text": "How would you answer that question"
+    },
+    {
+      "start_timestamp": 3813.6,
+      "text": " I was an AI nerd my whole life"
+    },
+    {
+      "start_timestamp": 3813.6,
+      "text": "I came to college \nto study AI"
+    },
+    {
+      "start_timestamp": 3813.6,
+      "text": "I worked in the AI lab"
+    },
+    {
+      "start_timestamp": 3813.6,
+      "text": "Uh, I was like a I watched sci-fi shows growing up and I \nalways thought it would be really cool if someday somebody built it"
+    },
+    {
+      "start_timestamp": 3824.56,
+      "text": "I thought it would be like the \nmost important thing ever"
+    },
+    {
+      "start_timestamp": 3824.56,
+      "text": "I never thought I was going to be one to actually work on it and I feel \nlike unbelievably lucky and happy and privileged that I get to do this"
+    },
+    {
+      "start_timestamp": 3836.32,
+      "text": "I like feel like I've like \ncome a long way from my childhood"
+    },
+    {
+      "start_timestamp": 3836.32,
+      "text": "But there was never a question in my mind that this would not be \nthe most exciting interesting thing"
+    },
+    {
+      "start_timestamp": 3843.2,
+      "text": "I just didn't think it was going to be possible"
+    },
+    {
+      "start_timestamp": 3846.88,
+      "text": "Uh, and when \nI went to college, it really seemed like we were very far from it"
+    },
+    {
+      "start_timestamp": 3851.68,
+      "text": "And then in 2012, the Alex Net \npaper came out done, you know, in partnership with my co-founder, Ilia"
+    },
+    {
+      "start_timestamp": 3859.36,
+      "text": "And for the first time, it \nseemed to me like there was an approach that might work"
+    },
+    {
+      "start_timestamp": 3866.8,
+      "text": "And then I kept watching for the next couple \nof years as scaled up, scaled up, got better, better"
+    },
+    {
+      "start_timestamp": 3871.84,
+      "text": "And I remember having this thing of \nlike why is the world not paying attention to this"
+    },
+    {
+      "start_timestamp": 3876.0,
+      "text": "It seems like obvious to me that this might \nwork"
+    },
+    {
+      "start_timestamp": 3876.0,
+      "text": "Still a low chance, but it might work"
+    },
+    {
+      "start_timestamp": 3876.0,
+      "text": "And if it does work, it's just the most important \nthing"
+    },
+    {
+      "start_timestamp": 3882.0,
+      "text": "So like this is what I want to do"
+    },
+    {
+      "start_timestamp": 3882.0,
+      "text": "And then like unbelievably it started to work"
+    },
+    {
+      "start_timestamp": 3887.84,
+      "text": "Thank \nyou so much for your time"
+    },
+    {
+      "start_timestamp": 3887.84,
+      "text": "Thank you very much"
+    }
+  ],
+  "gt": [
+    {
+      "start_timestamp": 0,
+      "text": "What future are we headed for?"
+    },
+    {
+      "start_timestamp": 126,
+      "text": "What can GPT-5 do that GPT-4 can’t?"
+    },
+    {
+      "start_timestamp": 417,
+      "text": "What does AI do to how we think?"
+    },
+    {
+      "start_timestamp": 652,
+      "text": "When will AI make a significant scientific discovery?"
+    },
+    {
+      "start_timestamp": 789,
+      "text": "What is superintelligence?"
+    },
+    {
+      "start_timestamp": 977,
+      "text": "How does one AI determine “truth”?"
+    },
+    {
+      "start_timestamp": 1115,
+      "text": "It’s 2030. How do we know what’s real?"
+    },
+    {
+      "start_timestamp": 1280,
+      "text": "It’s 2035. What new jobs exist?"
+    },
+    {
+      "start_timestamp": 1442,
+      "text": "How do you build superintelligence?"
+    },
+    {
+      "start_timestamp": 1560,
+      "text": "What are the infrastructure challenges for AI?"
+    },
+    {
+      "start_timestamp": 1698,
+      "text": "What data does AI use?"
+    },
+    {
+      "start_timestamp": 1790,
+      "text": "What changed between GPT1 v 2 v 3…?"
+    },
+    {
+      "start_timestamp": 1975,
+      "text": "What went right and wrong building GPT-5?"
+    },
+    {
+      "start_timestamp": 2140,
+      "text": "“A kid born today will never be smarter than AI”"
+    },
+    {
+      "start_timestamp": 2277,
+      "text": "It’s 2040. What does AI do for our health?"
+    },
+    {
+      "start_timestamp": 2400,
+      "text": "Can AI help cure cancer?"
+    },
+    {
+      "start_timestamp": 2470,
+      "text": "Who gets hurt?"
+    },
+    {
+      "start_timestamp": 2580,
+      "text": "“The social contract may have to change”"
+    },
+    {
+      "start_timestamp": 2722,
+      "text": "What is our shared responsibility here?"
+    },
+    {
+      "start_timestamp": 2961,
+      "text": "“We haven’t put a sex bot avatar into ChatGPT yet”"
+    },
+    {
+      "start_timestamp": 3100,
+      "text": "What mistakes has Sam learned from?"
+    },
+    {
+      "start_timestamp": 3190,
+      "text": "“What have we done”?"
+    },
+    {
+      "start_timestamp": 3460,
+      "text": "How will I actually use GPT-5?"
+    },
+    {
+      "start_timestamp": 3580,
+      "text": "Why do people building AI say it’ll destroy us?"
+    },
+    {
+      "start_timestamp": 3796,
+      "text": "Why do this?"
+    }
+  ]
+}

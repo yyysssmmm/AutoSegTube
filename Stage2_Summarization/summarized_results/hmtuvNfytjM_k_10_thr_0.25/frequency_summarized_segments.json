@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.16,
+      "title": "Like · Do · But"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 1222.24,
+      "title": "Like · Think · Will"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 2439.28,
+      "title": "Like · Do · But"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 3375.44,
+      "title": "Like · Will · Do"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 3532.32,
+      "title": "Like · People · Tool"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 3648.56,
+      "title": "Like · Do · Not"
+    }
+  ]
+}

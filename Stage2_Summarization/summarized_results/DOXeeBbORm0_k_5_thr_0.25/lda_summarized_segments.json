@@ -1,0 +1,56 @@
+{
+  "k": 5,
+  "threshold": true,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.08,
+      "title": "Professor · Yeah · Galloway"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 125.04,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 166.4,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 196.4,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 2412.0,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 2686.4,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 7,
+      "start_timestamp": 3467.599,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 8,
+      "start_timestamp": 4460.96,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 9,
+      "start_timestamp": 5779.679,
+      "title": "Think · Like · Know"
+    },
+    {
+      "seg_num": 10,
+      "start_timestamp": 6021.679,
+      "title": "Com · Substack · Shanemith"
+    }
+  ]
+}

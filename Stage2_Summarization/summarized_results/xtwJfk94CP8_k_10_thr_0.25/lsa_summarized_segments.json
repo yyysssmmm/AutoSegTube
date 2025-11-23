@@ -1,0 +1,36 @@
+{
+  "k": 10,
+  "threshold": false,
+  "segments": [
+    {
+      "seg_num": 1,
+      "start_timestamp": 0.24,
+      "title": "Government · Tribal · But"
+    },
+    {
+      "seg_num": 2,
+      "start_timestamp": 170.16,
+      "title": "Government · Tribal · But"
+    },
+    {
+      "seg_num": 3,
+      "start_timestamp": 337.919,
+      "title": "Government · Tribal · But"
+    },
+    {
+      "seg_num": 4,
+      "start_timestamp": 420.96,
+      "title": "Government · Tribal · But"
+    },
+    {
+      "seg_num": 5,
+      "start_timestamp": 513.76,
+      "title": "Government · Tribal · But"
+    },
+    {
+      "seg_num": 6,
+      "start_timestamp": 604.8,
+      "title": "Help · Episode · Native"
+    }
+  ]
+}
